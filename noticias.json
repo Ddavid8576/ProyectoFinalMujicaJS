@@ -1,0 +1,1306 @@
+{
+    "status": "ok",
+    "totalResults": 135,
+    "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "Xataka.com"
+        },
+        "author": "Ricardo Aguilar",
+        "title": "Android Auto hace oficial un secreto a voces: será compatible con Google Cast",
+        "description": "Android 15 ya ha echado a andar en su segunda beta y, aprovechando el marco de la conferencia anual para desarrolladores, Google ha contado en su I/O 2024 cuáles serán algunas de las principales novedades que llegarán a Android Auto y Automotive.\n\u003C!-- BREAK 1…",
+        "url": "https://www.xataka.com/movilidad/android-auto-hace-oficial-secreto-a-voces-sera-compatible-google-cast",
+        "urlToImage": "https://i.blogs.es/393b87/rivian/840_560.jpeg",
+        "publishedAt": "2024-05-15T17:01:58Z",
+        "content": "Android 15 ya ha echado a andar en su segunda beta y, aprovechando el marco de la conferencia anual para desarrolladores, Google ha contado en su I/O 2024 cuáles serán algunas de las principales nove… [+1714 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Xataka Android"
+        },
+        "author": "Amparo Babiloni",
+        "title": "Lo nuevo de Android Automotive permitirá enviar contenido a la pantalla del coche como si fuera un Chromecast",
+        "description": "El Google I/O es el evento del año para Google y, por primera vez, no nos hablaron de las novedades de Android en la keynote de inauguración. En su lugar, centraron esta conferencia en novedades de IA como el impresionante Project Astra, el nuevo Gemini 1.5 F…",
+        "url": "https://www.xatakandroid.com/sistema-operativo/nuevo-android-automotive-permitira-enviar-contenido-a-pantalla-coche-como-fuera-chromecast",
+        "urlToImage": "https://i.blogs.es/35d7af/android-automotive-google-cast/840_560.jpeg",
+        "publishedAt": "2024-05-15T17:05:57Z",
+        "content": "El Google I/O es el evento del año para Google y, por primera vez, no nos hablaron de las novedades de Android en la keynote de inauguración. En su lugar, centraron esta conferencia en novedades de I… [+3948 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Xataka.com"
+        },
+        "author": "Javier Pastor",
+        "title": "Toyota se ha propuesto salvar al motor de combustión de la desaparición. Lo sorprendente es cómo: con hidrógeno",
+        "description": "Hace tres años Toyota mostró un singular desarrollo: un coche basado en un motor de combustión de hidrógeno. Según ellos, ese proyecto planteaba una alternativa neutra en carbono a los coches eléctricos gracias a la emisión prácticamente nula de dióxido de ca…",
+        "url": "https://www.xataka.com/movilidad/toyota-quiere-salvar-al-motor-combustion-su-muerte-sorpresa-como-quiere-hacerlo-hidrogeno",
+        "urlToImage": "https://i.blogs.es/2ee625/toyota2/840_560.jpeg",
+        "publishedAt": "2024-06-10T17:00:46Z",
+        "content": "Hace tres años Toyota mostró un singular desarrollo: un coche basado en un motor de combustión de hidrógeno. Según ellos, ese proyecto planteaba una alternativa neutra en carbono a los coches eléctri… [+3425 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Xataka.com"
+        },
+        "author": "Ricardo Aguilar",
+        "title": "La interfaz más espectacular en un coche eléctrico es de Rivian. La empresa detrás de Fortnite tiene mucho que ver con ella",
+        "description": "Hablar de interfaces para coches es hablar, por lo general, de interfaces bastante aburridas y muy alejadas del grado de perfección al que se acerca el UI de nuestros teléfonos. Tanto es así, que Android Auto ha evolucionado para convertirse en el sistema ope…",
+        "url": "https://www.xataka.com/movilidad/interfaz-espectacular-coche-electrico-rivian-empresa-detras-fortnite-tiene-mucho-que-ver-ella",
+        "urlToImage": "https://i.blogs.es/44f227/rivian/840_560.jpeg",
+        "publishedAt": "2024-06-07T10:15:39Z",
+        "content": "Hablar de interfaces para coches es hablar, por lo general, de interfaces bastante aburridas y muy alejadas del grado de perfección al que se acerca el UI de nuestros teléfonos. Tanto es así, que And… [+2742 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Xataka.com"
+        },
+        "author": "Ricardo Aguilar",
+        "title": "Google I/O 2024: todas las novedades sobre Gemini, Android 15 y sus grandes avances en IA",
+        "description": "El Google I/O 2024 ha sido uno de los eventos más importantes del año, dejándonos sobre la mesa la propuesta de Google en inteligencia artificial para el futuro más cercano. Se celebró tan solo unos días después del gran anuncio de GPT-4o, y nos ha dejado nov…",
+        "url": "https://www.xataka.com/robotica-e-ia/google-i-2024-todas-novedades-gemini-android-15-sus-grandes-avances-ia",
+        "urlToImage": "https://i.blogs.es/701411/google-io/840_560.jpeg",
+        "publishedAt": "2024-05-17T16:00:42Z",
+        "content": "El Google I/O 2024 ha sido uno de los eventos más importantes del año, dejándonos sobre la mesa la propuesta de Google en inteligencia artificial para el futuro más cercano. Se celebró tan solo unos … [+4298 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Xataka Android"
+        },
+        "author": "Eduardo Marín",
+        "title": "El ecosistema Android evoluciona. Todo lo que llegará a Android, Android TV, Android Auto y Wear OS",
+        "description": "Google llevó a cabo su conferencia para desarrolladores, la Google I/O 2024, el evento más importante de la compañía para presentar las novedades de sus productos, tanto aquellas que llegarán directamente a los usuarios como las herramientas que podrán usar l…",
+        "url": "https://www.xatakandroid.com/sistema-operativo/ecosistema-android-evoluciona-todo-que-llegara-a-android-android-tv-android-auto-wear-os",
+        "urlToImage": "https://i.blogs.es/d0e24f/novedades-android-io-2024/840_560.jpeg",
+        "publishedAt": "2024-05-16T05:30:02Z",
+        "content": "Google llevó a cabo su conferencia para desarrolladores, la Google I/O 2024, el evento más importante de la compañía para presentar las novedades de sus productos, tanto aquellas que llegarán directa… [+7591 chars]"
+      },
+      {
+        "source": {
+          "id": "marca",
+          "name": "Marca"
+        },
+        "author": "Carlos Espinosa",
+        "title": "Así creían en 1954 que serían los coches de 2025",
+        "description": "Los diseños de los coches actuales pueden parecer en muchos casos poco originales, sobre todo si vemos las similitudes que hay entre modelos de un mismo fabricante. Una conclusión",
+        "url": "https://www.marca.com/coches-y-motos/coches/2024/05/19/664730f4268e3e24078b4590.html",
+        "urlToImage": "https://phantom-marca.unidadeditorial.es/d90d69f4870144dbff4011df76a188fa/crop/0x345/1977x1659/resize/1200/f/webp/assets/multimedia/imagenes/2024/05/17/17159429292455.jpg",
+        "publishedAt": "2024-05-19T07:03:22Z",
+        "content": "Los diseños de los coches actuales pueden parecer en muchos casos poco originales, sobre todo si vemos las similitudes que hay entre modelos de un mismo fabricante. Una conclusión rápida sería decir … [+3805 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Xataka Android"
+        },
+        "author": "Pepu Ricca",
+        "title": "Google planea desbancar a ChatGPT: Gemini, Android 15 y todo lo que esperamos del Google I/O",
+        "description": "Como cada año, Google se prepara para desvelar todo lo nuevo que llega a su portfolio de productos y servicios. El Google I/O 2024 desveló su fecha hace un par de meses, y desde entonces estamos impacientes por conocer las novedades que seguramente giren en t…",
+        "url": "https://www.xatakandroid.com/sistema-operativo/google-planea-desbancar-a-chatgpt-gemini-android-15-todo-que-esperamos-google-i",
+        "urlToImage": "https://i.blogs.es/b61d46/google-io-2024-esperamos/840_560.jpeg",
+        "publishedAt": "2024-05-13T12:01:46Z",
+        "content": "Como cada año, Google se prepara para desvelar todo lo nuevo que llega a su portfolio de productos y servicios. El Google I/O 2024 desveló su fecha hace un par de meses, y desde entonces estamos impa… [+4159 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Xataka.com"
+        },
+        "author": "Alberto de la Torre",
+        "title": "Renault Rafale, primeras impresiones: SUV familiar perfecto a diario y buen deportivo para el fin de semana en formato híbrido",
+        "description": "Renault cierra el círculo con un nuevo SUV. Desde que Renualution se presentara, el proyecto que está renovando la marca en todo tipo de ámbitos (incluida la electrificación), los franceses han ido recogiendo todo lo que han sembrado en los últimos dos años.\n…",
+        "url": "https://www.xataka.com/movilidad/renault-rafale-e-tech-full-hybrid-opiniones-primeras-impresiones-fotos",
+        "urlToImage": "https://i.blogs.es/26e692/img_4982/840_560.jpeg",
+        "publishedAt": "2024-06-07T09:01:38Z",
+        "content": "Renault cierra el círculo con un nuevo SUV. Desde que Renualution se presentara, el proyecto que está renovando la marca en todo tipo de ámbitos (incluida la electrificación), los franceses han ido r… [+10442 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Marketingdirecto.com"
+        },
+        "author": "Valeria Rodriguez",
+        "title": "Dircom anuncia los finalistas de los Premios Dircom Ramón Del Corral 2024",
+        "description": "Los proyectos vencedores de la 7ª edición de los Premios Dircom se darán a conocer el miércoles 19 de junio de 2024 en una gala presencial en el Auditorio Pablo VI, en Madrid.\nLa entrada Dircom anuncia los finalistas de los Premios Dircom Ramón Del Corral 202…",
+        "url": "https://www.marketingdirecto.com/marketing-general/eventos-y-formacion/dircom-anuncia-finalistas-premios-dircom-ramon-del-corral-2024",
+        "urlToImage": "https://www.marketingdirecto.com/wp-content/uploads/2024/05/Finalistas-Premios-Dircom-2024-.jpg",
+        "publishedAt": "2024-05-23T11:10:48Z",
+        "content": "Los proyectos vencedores de la 7ª edición de los Premios Dircom se darán a conocer el miércoles 19 de junio de 2024 en una gala presencial en el Auditorio Pablo VI, en Madrid.La Asociación de Directi… [+5865 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Xataka.com"
+        },
+        "author": "Javier Lacort",
+        "title": "Paradoja Polestar: sus coches son brillantes, su acción está hundida",
+        "description": "Polestar, la marca de coches eléctricos surgida de Volvo, está atrapada en una paradoja: sus coches reciben críticas excelentes por su diseño y su rendimiento, pero su acción se ha desplomado un 97% desde que tocó máximos al poco de salir a bolsa. No hace ni …",
+        "url": "https://www.xataka.com/movilidad/paradoja-polestar-sus-coches-brillantes-su-accion-esta-hundida",
+        "urlToImage": "https://i.blogs.es/be9c1d/dest-polestar-3/840_560.jpeg",
+        "publishedAt": "2024-06-06T06:01:31Z",
+        "content": "Polestar, la marca de coches eléctricos surgida de Volvo, está atrapada en una paradoja: sus coches reciben críticas excelentes por su diseño y su rendimiento, pero su acción se ha desplomado un 97% … [+2808 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "La Vanguardia"
+        },
+        "author": "Damián García",
+        "title": "La movilidad sostenible conquista Google Maps",
+        "description": "Google ha recogido el guante de la movilidad sostenible y la necesidad de cuidar el medio ambiente, así que lejos ahora de su Responsabilidad Social Corporativa y la huella de carbono generada por sus operaciones, el gigante de Mountain View se afana también …",
+        "url": "https://www.lavanguardia.com/andro4all/google-maps/la-movilidad-sostenible-conquista-google-maps",
+        "urlToImage": "https://www.lavanguardia.com/andro4all/hero/2024/05/google-maps-electric-cars.jpg?width=1200",
+        "publishedAt": "2024-05-12T20:01:44Z",
+        "content": "Google Maps se apunta a la movilidad eléctrica y facilitará la búsqueda de puntos de recarga\r\nGoogle ha recogido el guante de la movilidad sostenible y la necesidad de cuidar el medio ambiente, así q… [+2691 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Diariomotor.com"
+        },
+        "author": "Humberto Gutiérrez",
+        "title": "Ligier Automotive presentó el JS P325, su LMP3 de próxima generación",
+        "description": "Aprovechando el desfile de coches que participarán en la próxima edición de las 24 Horas de Le Mans, Ligier Automotive mostró su JS P325, el sucesor del JS P320, su exitoso y popular prototipo de tercera clase. Este nuevo coche presenta como gran novedad un m…",
+        "url": "https://www.diariomotor.com/competicion/noticia/ligier-automotive-presento-el-js-p325-su-lmp3-de-proxima-generacion/",
+        "urlToImage": "https://www.diariomotor.com/imagenes/2024/06/ligier-js-p325-lmp3-2025-1076436.jpg",
+        "publishedAt": "2024-06-09T16:49:31Z",
+        "content": "Aprovechando el desfile de coches que participarán en la próxima edición de las 24 Horas de Le Mans, Ligier Automotive mostró su JS P325, el sucesor del JS P320, su exitoso y popular prototipo de ter… [+2080 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Diariomotor.com"
+        },
+        "author": "Humberto Gutiérrez",
+        "title": "El Ligier JS2 RH2 realizará una exhibición en Le Mans",
+        "description": "Desde Ligier Automotive informaron que el JS2 RH2, su coche propulsado por hidrógeno, realizará una demostración previa a las 24 Horas de Le Mans, donde también rodarán el prototipo LMPH2G y el Alpine Alpenglow Hy4, cuya exhibición en Spa no pudo completarse …",
+        "url": "https://www.diariomotor.com/competicion/noticia/el-ligier-js2-rh2-realizara-una-exhibicion-en-le-mans/",
+        "urlToImage": "https://www.diariomotor.com/imagenes/2024/05/Ligier_JS2_LH2_Exhibicion_RLM_2024_24-6644b8bf331bb.jpg",
+        "publishedAt": "2024-05-15T14:06:36Z",
+        "content": "Desde Ligier Automotive informaron que el JS2 RH2, su coche propulsado por hidrógeno, realizará una demostración previa a las 24 Horas de Le Mans, donde también rodarán el prototipo LMPH2G y el Alpin… [+1799 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Xataka.com.mx"
+        },
+        "author": "Adolfo Reséndiz",
+        "title": "Es un auto y tiene chromecast: lo nuevo de Google es permitir hacer cast dentro de un coche",
+        "description": "Google ha dado un paso adelante en la experiencia de conectividad en automóviles al anunciar la llegada de Google Cast a Android Auto, esto abre la puerta a una nueva forma de disfrutar del contenido multimedia mientras estamos en movimiento. Información de X…",
+        "url": "https://www.xataka.com.mx/automovil/auto-tiene-chromecast-nuevo-google-permitir-hacer-cast-dentro-coche",
+        "urlToImage": "https://i.blogs.es/020197/android-automotive/840_560.jpeg",
+        "publishedAt": "2024-05-16T16:25:23Z",
+        "content": "Google ha dado un paso adelante en la experiencia de conectividad en automóviles al anunciar la llegada de Google Cast a Android Auto, esto abre la puerta a una nueva forma de disfrutar del contenido… [+2709 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Diariomotor.com"
+        },
+        "author": "David Durán",
+        "title": "La situación entre China y occidente se tensa: China podría subir los aranceles y apunta a los coches con motores de 2.5 en adelante",
+        "description": "La Cámara China de Comercio con Estados Unidos ha afirmado que está preparada para responder a la subida de los aranceles que Estados Unidos impondría, en principio a partir del 1 de agosto, a diferentes bienes procedentes de su país, en particular un aumento…",
+        "url": "https://www.diariomotor.com/noticia/china-aranceles-europa-estados-unidos/",
+        "urlToImage": "https://www.diariomotor.com/imagenes/2021/03/mg-zs-ev-2021-5.jpg",
+        "publishedAt": "2024-05-23T15:00:21Z",
+        "content": "La Cámara China de Comercio con Estados Unidos ha afirmado que está preparada para responder a la subida de los aranceles que Estados Unidos impondría, en principio a partir del 1 de agosto, a difere… [+3539 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Elconfidencialdigital.com"
+        },
+        "author": "Comunicae",
+        "title": "Schaeffler registra un buen comienzo de 2024",
+        "description": "Confidencial Digital. Contenidos confidenciales en español orientado a personas informadas que hoy en día desean estar aún más informadas",
+        "url": "https://www.elconfidencialdigital.com/articulo/comunicados/schaeffler-registra-buen-comienzo-2024/20240510141220777144.html",
+        "urlToImage": null,
+        "publishedAt": "2024-05-10T14:12:20Z",
+        "content": "El volumen de negocio de 4.100 millones de euros a tipo de cambio constante y el margen EBIT del 7,9% antes de efectos especiales se sitúan al nivel del ejercicio anterior. Cash flow disponible antes… [+14450 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Expansion.com"
+        },
+        "author": "CARLOS DRAKE",
+        "title": "ALD y LeasePlan exhiben su unión y esperan crecer en España bajo la enseña Ayvens",
+        "description": "Ayvens, empresa surgida de la fusión entre los gigantes del sector del rénting ALD Automotive y LeasePlan, ha escenificado su nueva etapa en el mercado español, donde espera...",
+        "url": "https://www.expansion.com/empresas/motor/2024/05/30/6658bd11e5fdea53348b459f.html",
+        "urlToImage": "https://phantom-expansion.unidadeditorial.es/55e686886ffcb6019c46d4cf74bb41ef/crop/74x0/886x541/f/webp/assets/multimedia/imagenes/2024/05/30/17170915684296.jpg",
+        "publishedAt": "2024-05-30T17:53:35Z",
+        "content": "Ayvens cuenta con una flota de 264.000 vehículos en España, de los que casi 16.000 son eléctricos o híbridos enchufables.Ayvens, empresa surgida de la fusión entre los gigantes del sector del rénting… [+367 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Expansion.com"
+        },
+        "author": "E. P. V.",
+        "title": "El BEI concede 36 millones a CIE para innovar en piezas de automoción",
+        "description": "El Banco Europeo de Inversiones (BEI) ha concedido a CIE Automotive un préstamo de 36 millones de euros para financiar sus actividades de investigación, desarrollo e innovación,...",
+        "url": "https://www.expansion.com/pais-vasco/2024/05/31/6659ae6ce5fdeadc5c8b45b4.html",
+        "urlToImage": "https://phantom-expansion.unidadeditorial.es/636a3081ccdbab82ec06f7830772dfa2/crop/758x380/1850x1108/f/webp/assets/multimedia/imagenes/2022/09/21/16637482115266.jpg",
+        "publishedAt": "2024-05-31T11:05:27Z",
+        "content": "El grupo de componentes de automoción desarrollará tecnologías avanzadas para el sector.El Banco Europeo de Inversiones (BEI) ha concedido a CIE Automotive un préstamo de 36 millones de euros para fi… [+334 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Expansion.com"
+        },
+        "author": "Expansión.com",
+        "title": "Los inversores esperan 6.300 millones en dividendos de cotizadas españolas hasta julio",
+        "description": "Las empresas cotizadas españolas repartirán, al menos, 6.359 millones de euros en dividendos entre sus accionistas en junio y julio destacando el de Iberdrola, que llegará pocos días antes de iniciarse agosto. Leer",
+        "url": "https://www.expansion.com/mercados/2024/06/02/665c4698468aeb1c298b45b2.html",
+        "urlToImage": "https://phantom-expansion.unidadeditorial.es/da750e822f573b1d80a8567bd6f92cef/crop/19x37/1873x1273/resize/1200/f/webp/assets/multimedia/imagenes/2019/10/13/15709829201457.jpg",
+        "publishedAt": "2024-06-02T10:18:13Z",
+        "content": "Las empresas cotizadas españolas repartirán, al menos, 6.359 millones de euros en dividendos entre sus accionistas en junio y julio destacando el de Iberdrola, que llegará pocos días antes de iniciar… [+3135 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Www.abc.es"
+        },
+        "author": "(abc)",
+        "title": "Navigalia Sevilla, galardonado en los premios internacionales Eventexco",
+        "description": "Navigalia, el espectáculo que ocupó el río durante la Navidad de 2023 en Sevilla, ha sido galardonado por los prestigiosos premios Eventexco. Los ganadores de este certamen internacional han sido elegidos entre 1.207 entidades de 62 países y seis continentes.…",
+        "url": "https://www.abc.es/sevilla/ciudad/navigalia-sevilla-galardonado-premios-internacionales-eventexco-20240515101724-nts.html",
+        "urlToImage": "https://s3.abcstatics.com/abc/www/multimedia/sevilla/2024/05/15/navigalia-sevilla-rio-khuF--1024x512@diario_abc.jpg",
+        "publishedAt": "2024-05-15T08:17:25Z",
+        "content": "Navigalia, el espectáculo que ocupó el río durante la Navidad de 2023 en Sevilla, ha sido galardonado por los prestigiosos premios Eventexco. Los ganadores de este certamen internacional han sido ele… [+1264 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Www.abc.es"
+        },
+        "author": "(abc)",
+        "title": "Los secretos del McLaren Technology Centre se desvelan en su 20 aniversario",
+        "description": "Apoyándose en sus 60 años de historia de auténticas prestaciones en lacompetición, McLaren ha creado algunos de los supercoches más espectaculares jamás fabricados. Fundada en 2010, McLaren Automotive Group y con sede en el McLaren Technology Centre (MTC) de …",
+        "url": "https://www.abc.es/motor/reportajes/secretos-mclaren-technology-centre-desvelan-aniversario-20240517090000-nt.html",
+        "urlToImage": "https://s2.abcstatics.com/abc/www/multimedia/motor/2024/05/15/Small-16146-20YearsofMTC-U00366322353Dxy-1024x512@diario_abc.jpg",
+        "publishedAt": "2024-05-17T08:23:59Z",
+        "content": "Apoyándose en sus 60 años de historia de auténticas prestaciones en lacompetición, McLaren ha creado algunos de los supercoches más espectaculares jamás fabricados.Fundada en 2010, McLaren Automotive… [+4743 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Hibridosyelectricos.com"
+        },
+        "author": "Gonzalo García",
+        "title": "Nuevo tren de potencia español para motos eléctricas de altas prestaciones, derivado de la tecnología microhíbrida",
+        "description": "Tras meses de trabajo, la colaboración entre NUUK mobility solutions, una empresa especializada en la gestión integral de flotas y en el desarrollo y venta de vehículos eléctricos ligeros y SEG Automotive, fabricante de componentes de automoción para todo tip…",
+        "url": "https://www.hibridosyelectricos.com/motos/nuevo-tren-potencia-espanol-motos-electricas-altas-prestaciones-derivado-tecnologia-microhibrida_74337_102.html",
+        "urlToImage": "https://www.hibridosyelectricos.com/uploads/s1/70/48/08/motor-electrico-sistema-propulsion-nuuk-motos-electricas-1_17_2000x1126.jpeg",
+        "publishedAt": "2024-05-30T11:41:39Z",
+        "content": "Tras meses de trabajo, la colaboración entre NUUK mobility solutions, una empresa especializada en la gestión integral de flotas y en el desarrollo y venta de vehículos eléctricos ligeros y SEG Autom… [+3296 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Diariomotor.com"
+        },
+        "author": "Humberto Gutiérrez",
+        "title": "Mahindra y Shell presentan un nuevo proyecto de reciclaje",
+        "description": "En la Fórmula E, la empresa Shell mantiene asociación tanto con Nissan como con Mahindra, siendo el fabricante japonés el que ostenta el rango de socio principal. No obstante, desde el fabricante indio se presentó una propuesta que contará con el apoyo de la …",
+        "url": "https://www.diariomotor.com/competicion/noticia/mahindra-y-shell-presentan-un-nuevo-proyecto-de-reciclaje/",
+        "urlToImage": "https://www.diariomotor.com/imagenes/2024/05/Mahindra_Shell_Formula_E_2024_24.jpg",
+        "publishedAt": "2024-05-10T16:11:44Z",
+        "content": "En la Fórmula E, la empresa Shell mantiene asociación tanto con Nissan como con Mahindra, siendo el fabricante japonés el que ostenta el rango de socio principal. No obstante, desde el fabricante ind… [+1780 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Www.abc.es"
+        },
+        "author": "(abc)",
+        "title": "McLaren rinde homenaje a Ayrton Senna",
+        "description": "McLaren conmemora los 30 años del increíble legado de actuaciones de Ayrton Senna con un poderoso y emotivo homenaje que representa visualmente su vibrante personalidad y su visión de la vida, así como sus tres títulos de Campeón del Mundo de Fórmula 1 y sus …",
+        "url": "https://www.abc.es/motor/novedades/mclaren-rinde-homenaje-ayrton-senna-20240522120000-nt.html",
+        "urlToImage": "https://s3.abcstatics.com/abc/www/multimedia/motor/2024/05/22/Small-16218-McLarenSennaSempre-U11470364816TFv-1024x512@diario_abc.jpg",
+        "publishedAt": "2024-05-22T12:56:20Z",
+        "content": "McLaren conmemora los 30 años del increíble legado de actuaciones de Ayrton Senna con un poderoso y emotivo homenaje que representa visualmente su vibrante personalidad y su visión de la vida, así co… [+4277 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Www.abc.es"
+        },
+        "author": "(abc)",
+        "title": "La marca china Arfox desembarca en España para llegar a toda Europa",
+        "description": "Una nueva marca china se inmiscuye en el cada día más variado mercado del automóvil eléctrico. Hablamos de Arcfox que con cuatro modelos de lujo y altas prestaciones inicia la comercialización de los mismos con unos precios que varían entre los 30.000 y los 6…",
+        "url": "https://www.abc.es/motor/novedades/marca-china-arcfox-desembarca-espana-20240510191308-nt.html",
+        "urlToImage": "https://s3.abcstatics.com/abc/www/multimedia/motor/2024/05/12/WhatsAppImage2024-05-12at19.04.32-U20826330187WrK-1024x512@diario_abc.jpeg",
+        "publishedAt": "2024-05-13T10:45:01Z",
+        "content": "Una nueva marca china se inmiscuye en el cada día más variado mercado del automóvil eléctrico. Hablamos de Arcfox que con cuatro modelos de lujo y altas prestaciones inicia la comercialización de los… [+2408 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Publico.es"
+        },
+        "author": "eldiariocantabria.es",
+        "title": "El PSOE apuesta por reeditar los Fondos Next Generation y \"seguir aportando soluciones a Cantabria\"",
+        "description": "La candidata cántabra por el PSOE a las elecciones europeas, Silvia Abascal, ha propuesto este viernes una segunda edición de los Fondos Next Generation para \"seguir aportando dinero y soluciones a los pueblos de Cantabria\". En ese sentido,...",
+        "url": "https://eldiariocantabria.publico.es/articulo/politica/psoe-apuesta-reeditar-fondos-next-generation-seguir-aportando-soluciones-cantabria/20240531194731157552.html",
+        "urlToImage": "https://eldiariocantabria.publico.es/media/eldiariocantabria/images/2024/05/31/2024053119465294367.jpg",
+        "publishedAt": "2024-05-31T17:47:31Z",
+        "content": "La candidata cántabra por el PSOE a las elecciones europeas, Silvia Abascal, ha propuesto este viernes una segunda edición de los Fondos Next Generation para \"seguir aportando dinero y soluciones a l… [+2122 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Huffingtonpost.es"
+        },
+        "author": "Redacción HuffPost",
+        "title": "La crisis en el Mar Rojo pone este puerto español en el escaparate mundial",
+        "description": "\u003C![CDATA[\u003Cp\u003ELa crisis del Mar Rojo, las tensiones geopolíticas en el Mar de China, así como el resto de los conflictos bélicos en zonas clave por las que pasa el comercio marítimo mundial están causando estragos en el flujo de mercancías a nivel global. Sin e…",
+        "url": "https://www.huffingtonpost.es/economia/la-crisis-mar-rojo-pone-puerto-espanol-escaparate-mundial.html",
+        "urlToImage": "https://img.huffingtonpost.es/files/og_thumbnail/uploads/2024/05/16/panoramica-del-puerto-de-las-palmas-de-gran-canaria.jpeg",
+        "publishedAt": "2024-05-16T04:00:00Z",
+        "content": "La crisis del Mar Rojo, las tensiones geopolíticas en el Mar de China, así como el resto de los conflictos bélicos en zonas clave por las que pasa el comercio marítimo mundial están causando estragos… [+3123 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Hibridosyelectricos.com"
+        },
+        "author": "Alejandro González",
+        "title": "Un fabricante chino ha copiado la fórmula de MG para usar el nombre de una reconocida marca en España",
+        "description": "Híbridos y Eléctricos fue el primer medio en hacerse eco del nuevo proyecto que había bajo la forma de una pick-up eléctrica. Por entonces llamaron Ecopower Automotive a la marca, aunque ya disponían de los derechos para explotar el nombre de la extinta Ebro,…",
+        "url": "https://www.hibridosyelectricos.com/coches/fabricante-chino-ha-copiado-formula-mg-usar-nombre-reconocida-marca-en-espana_74350_102.html",
+        "urlToImage": "https://www.hibridosyelectricos.com/uploads/s1/70/55/02/ebro-s700-hi-brido-enchufable_17_2000x1126.jpeg",
+        "publishedAt": "2024-05-31T11:09:27Z",
+        "content": "Híbridos y Eléctricos fue el primer medio en hacerse eco del nuevo proyecto que había bajo la forma de una pick-up eléctrica. Por entonces llamaron Ecopower Automotive a la marca, aunque ya disponían… [+3393 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "F1aldia.com"
+        },
+        "author": "Cristian Rodríguez García",
+        "title": "McLaren presenta una decoración especial para Mónaco en honor a Ayrton Senna",
+        "description": "RECORDÁNDOLE El equipo de Woking cubrirá su coche con los colores amarillo, verde y azul para homenajear al tricampeón del mundo brasileño.Leer artículoVer comentariosMotor&Racing: GP2, Fórmula 3, MotoGP, WRC, IndyCar, NASCAR, coches, motos y mucho más",
+        "url": "https://www.f1aldia.com/noticias/melaren-presenta-una-decoracion-especial-para-monaco-en-honor-ayrton-senna-46892/",
+        "urlToImage": "https://www.f1aldia.com/images/articulos/46000/46892-c0.jpg",
+        "publishedAt": "2024-05-23T08:14:00Z",
+        "content": "La cita de Mónaco traerá consigo una nueva decoración en el MCL38 de McLaren. Y es que el equipo papaya cubrirá su monoplaza con los colores amarillo, azul y verde en honor a Ayrton Senna, su históri… [+1656 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Diariomotor.com"
+        },
+        "author": "David Durán",
+        "title": "Tesla quiere llegar al millón de vehículos anuales en su gigafactoría de Berlín y para ello quiere ampliarla",
+        "description": "Tesla ya tiene luz verde del consejo local (necesitando además el OK de medioambiente) para llevar a cabo la ampliación de su gigafactoría de Gruenheide cerca de Berlín, donde se fabrican gran parte de los Tesla Model Y que exporta a gran parte del mundo. Una…",
+        "url": "https://www.diariomotor.com/noticia/tesla-ampliacion-berlin/",
+        "urlToImage": "https://www.diariomotor.com/imagenes/2024/05/FsFuUv0XoAI4etK-664730a00ebb1-scaled.jpeg",
+        "publishedAt": "2024-05-17T14:00:31Z",
+        "content": "Tesla ya tiene luz verde del consejo local (necesitando además el OK de medioambiente) para llevar a cabo la ampliación de su gigafactoría de Gruenheide cerca de Berlín, donde se fabrican gran parte … [+2257 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Diariomotor.com"
+        },
+        "author": "David Durán",
+        "title": "Stellantis y las leyes italianas vuelven a tener un (pequeño) malentendido, esta vez con el Fiat Topolino",
+        "description": "A mediados de este mes de mayo la policía italiana interceptaba en el puerto de Livorno unas 134 unidades del Fiat Topolino, el microcoche eléctrico que se basa en la misma plataforma (por no decir que son casi idénticos, cambiando el aspecto exterior) al Cit…",
+        "url": "https://www.diariomotor.com/noticia/fiat-topolino-marruecos-italia-stellantis/",
+        "urlToImage": "https://www.diariomotor.com/imagenes/2023/07/fiat-topolino-2024-dolcevita-12-64a524f0d6d46.jpg",
+        "publishedAt": "2024-05-20T12:00:53Z",
+        "content": "A mediados de este mes de mayo la policía italiana interceptaba en el puerto de Livorno unas 134 unidades del FiatTopolino, el microcoche eléctrico que se basa en la misma plataforma (por no decir qu… [+2444 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Diariomotor.com"
+        },
+        "author": "David Durán",
+        "title": "Ford sigue teniendo futuro en Almussafes con un nuevo coche que empezará a producirse en 2027 con 300.000 unidades anuales como objetivo",
+        "description": "Ford ha desvelado la noticia (que no ha sido el secreto mejor guardado) de que fabricará un nuevo modelo en la planta de Almussafes (Valencia) a partir de 2027, de modo que seguirá habiendo actividad en su fábrica española durante al menos unos años más. Aún …",
+        "url": "https://www.diariomotor.com/noticia/ford-almussafes-2027/",
+        "urlToImage": "https://www.diariomotor.com/imagenes/2024/01/ford-kuga-gama-completa-frente-playa-905613.jpg",
+        "publishedAt": "2024-05-10T16:37:59Z",
+        "content": "Ford ha desvelado la noticia (que no ha sido el secreto mejor guardado) de que fabricará un nuevo modelo en la planta de Almussafes (Valencia) a partir de 2027, de modo que seguirá habiendo actividad… [+2463 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Diariomotor.com"
+        },
+        "author": "David Durán",
+        "title": "Habas recibirá motores Renault a través de un acuerdo con Horse",
+        "description": "Renault, a través de su rama Horse dedicada a vehículos de combustión, ha llegado a un acuerdo para suministrar motores al conglomerado turco Habas, siendo la primera vez que negocia con una empresa ajena al Grupo Renault desde que se estableció la actual ali…",
+        "url": "https://www.diariomotor.com/noticia/renault-habas-horse-acuerdo-motores/",
+        "urlToImage": "https://www.diariomotor.com/imagenes/2024/05/renaulttrafic-interior-refinado-1069758.jpg",
+        "publishedAt": "2024-05-14T10:00:02Z",
+        "content": "Renault, a través de su rama Horse dedicada a vehículos de combustión, ha llegado a un acuerdo para suministrar motores al conglomerado turco Habas, siendo la primera vez que negocia con una empresa … [+2165 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Geeksroom.com"
+        },
+        "author": "Hector Russo",
+        "title": "Audi Introduce el PPE: Avances Tecnológicos para la Movilidad Eléctrica Premium de Próxima Generación",
+        "description": "Audi se asocia con Porsche para desarrollar la Premium Plataform Electric (PPE), prometiendo una nueva era en vehículos eléctricos de lujo, marcando un hito en …\nThe post Audi Introduce el PPE: Avances Tecnológicos para la Movilidad Eléctrica Premium de Próxi…",
+        "url": "https://geeksroom.com/2024/05/audi-ppe-q6-e-tron/138337/",
+        "urlToImage": "https://geeksroom.com/wp-content/uploads/2024/05/Audi-Q6-e-tron.jpg",
+        "publishedAt": "2024-05-16T11:02:57Z",
+        "content": "Audi se asocia con Porsche para desarrollar la Premium Plataform Electric (PPE), prometiendo una nueva era en vehículos eléctricos de lujo, marcando un hito en la expansión global en su cartera de mo… [+3527 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Www.abc.es"
+        },
+        "author": "(abc)",
+        "title": "Toyota, Mazda y Subaru están desarrollando el motor térmico del futuro",
+        "description": "«Entre los tres reconocemos que el dióxido de carbono es nuestro enemigo», afirmó el jefe de Tecnología de Mazda, Ichiro Hirose en una presentación atípica en la que participaron los tres fabricantes japoneses en el circuito de Fuji Speedway, presentando los …",
+        "url": "https://www.abc.es/motor/motoreco/toyota-mazda-subaru-desarrollando-motor-termico-futuro-20240528185207-nt.html",
+        "urlToImage": "https://s3.abcstatics.com/abc/www/multimedia/motor/2024/05/28/MX-30_RotaryEngine-U07428341225Zcu-1024x512@diario_abc.jpg",
+        "publishedAt": "2024-05-29T08:00:01Z",
+        "content": "«Entre los tres reconocemos que el dióxido de carbono es nuestro enemigo», afirmó el jefe de Tecnología de Mazda, Ichiro Hirose en una presentación atípica en la que participaron los tres fabricantes… [+2730 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Www.abc.es"
+        },
+        "author": "(abc)",
+        "title": "McLaren lanza su primera gama de bicicletas eléctricas de montaña",
+        "description": "Reconocido por sus superdeportivos e hiperdeportivos revolucionarios como el McLaren P1TM, el fabricante de superdeportivos de lujo McLaren Automotive inaugura la era de las hiperbikes eléctricas con su primera gama de bicicletas eléctricas. Inspirándose en l…",
+        "url": "https://www.abc.es/motor/novedades/mclaren-lanza-primera-gama-bicicletas-electricas-montana-20240520080700-nt.html",
+        "urlToImage": "https://s3.abcstatics.com/abc/www/multimedia/motor/2024/05/17/Small-16207-McLarenlaunchesdebutelectricmountainbikerange-U41621474376wUp-1024x512@diario_abc.jpg",
+        "publishedAt": "2024-05-20T06:07:00Z",
+        "content": "Reconocido por sus superdeportivos e hiperdeportivos revolucionarios como el McLaren P1TM, el fabricante de superdeportivos de lujo McLaren Automotive inaugura la era de las hiperbikes eléctricas con… [+3245 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Www.abc.es"
+        },
+        "author": "(abc)",
+        "title": "«Es posible que el coche eléctrico fracase», advierten desde Ineos",
+        "description": "Ineos ha presentado su nuevo modelo, el Grenadier Quartermaster, un pick up con capacidad para cinco pasajeros y un espacio de carga de 835 kilos. Un evento en el que los responsables de la firma automovilística se han pronunciado sobre el modo de afrontar la…",
+        "url": "https://www.abc.es/motor/motoreco/posible-coche-electrico-fracase-advierten-ineos-20240522070700-nt.html",
+        "urlToImage": "https://s2.abcstatics.com/abc/www/multimedia/motor/2024/05/22/ac_08780-U77272378384qeS-1024x512@diario_abc.jpg",
+        "publishedAt": "2024-05-22T05:07:00Z",
+        "content": "Ineos ha presentado su nuevo modelo, el Grenadier Quartermaster, un pick up con capacidad para cinco pasajeros y un espacio de carga de 835 kilos. Un evento en el que los responsables de la firma aut… [+3062 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Bolsamania.com"
+        },
+        "author": "redaccion@bolsamania.com (Bolsamanía)",
+        "title": "CIE Automotive y el BEI firman un préstamo de 36 millones para investigación",
+        "description": "El Banco Europeo de Inversiones (BEI) y CIE Automotive han firmado un préstamo por valor de 36 millones de euros para financiar las actividades de investigación, desarrollo e innovación de la compañía, así como su aplicación en la fabricación de componentes d…",
+        "url": "https://www.bolsamania.com/noticias/empresas/cie-automotive-bei-firman-prestamo-36-millones-investigacion--16877099.html",
+        "urlToImage": "https://img1.s3wfg.com/web/img/images_uploaded/d/3/ep_archivo_-_planta_de_alurecy_de_cie_automotive.jpg",
+        "publishedAt": "2024-05-31T12:08:05Z",
+        "content": "El Banco Europeo de Inversiones (BEI) y CIE Automotive han firmado un préstamo por valor de 36 millones de euros para financiar las actividades de investigación, desarrollo e innovación de la compañí… [+1671 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Hibridosyelectricos.com"
+        },
+        "author": "Isabel García Méndez",
+        "title": "Dongfeng pisa fuerte en España: tres marcas y un compacto eléctrico por 21.990 ?",
+        "description": "Hoy, 6 de junio, hemos asistido a la puesta de largo de una relación que promete dar unos frutos de lo más atractivos dentro del mercado eléctrico español: la alianza estratégica de la multinacional portuguesa Salvador Caetano y la compañía china Dongfeng. Co…",
+        "url": "https://www.hibridosyelectricos.com/coches/dongfeng-pisa-fuerte-en-espana-lanza-box-por-21990_74441_102.html",
+        "urlToImage": "https://www.hibridosyelectricos.com/uploads/s1/71/10/91/dongfeng-box-coche-electrico-urbano-1_17_2000x1126.jpeg",
+        "publishedAt": "2024-06-06T15:45:46Z",
+        "content": "Hoy, 6 de junio, hemos asistido a la puesta de largo de una relación que promete dar unos frutos de lo más atractivos dentro del mercado eléctrico español: la alianza estratégica de la multinacional … [+4886 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Hibridosyelectricos.com"
+        },
+        "author": "Gonzalo García",
+        "title": "Futuro incierto para las baterías de los coches eléctricos de Stellantis y Mercedes: China tiene la culpa",
+        "description": "Automotive Cells Company (ACC) es una empresa conjunta en la que Stellantis posee el 45%, Mercedes-Benz el 30% y TotalEnergies el resto. Actualmente, se están construyendo tres fábricas de baterías en Europa con una inversión total de 7.000 millones de euros.…",
+        "url": "https://www.hibridosyelectricos.com/coches/futuro-incierto-baterias-coches-electricos-stellantis-mercedes-china-tiene-culpa_74411_102.html",
+        "urlToImage": "https://www.hibridosyelectricos.com/uploads/s1/71/22/10/fabrica-baterias-stellantis-mercedes-alemania-3_17_2000x1126.jpeg",
+        "publishedAt": "2024-06-07T16:36:22Z",
+        "content": "Automotive Cells Company (ACC) es una empresa conjunta en la que Stellantis posee el 45%, Mercedes-Benz el 30% y TotalEnergies el resto. Actualmente, se están construyendo tres fábricas de baterías e… [+4498 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Hibridosyelectricos.com"
+        },
+        "author": "Alberto Pérez",
+        "title": "Bosch quiere que su tecnología híbrida de Le Mans llegue muy pronto a los coches de calle",
+        "description": "Los diferentes deportes del motor siempre han tenido una profunda finalidad, más allá de la pura competición, y es el desarrollo de nuevas piezas, componentes y tecnología que finalmente termina adaptándose al mercado de coches 'comunes'. No sólo se puede ver…",
+        "url": "https://www.hibridosyelectricos.com/coches/bosch-quiere-su-tecnologia-hibrida-mans-llegue-muy-pronto-coches-calle_74417_102.html",
+        "urlToImage": "https://www.hibridosyelectricos.com/uploads/s1/70/92/75/bosch-1_17_2000x1126.jpeg",
+        "publishedAt": "2024-06-08T06:30:00Z",
+        "content": "Los diferentes deportes del motor siempre han tenido una profunda finalidad, más allá de la pura competición, y es el desarrollo de nuevas piezas, componentes y tecnología que finalmente termina adap… [+3298 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Hibridosyelectricos.com"
+        },
+        "author": "Alberto Pérez",
+        "title": "El ministro italiano de Industria apoya el 'método Biden' y pide aranceles para los coches eléctricos chinos",
+        "description": "En las últimas semanas, el ambiente ha estado algo revuelto en términos políticos. Son muchos los que apoyan la incorporación de un sistema de aranceles para los productos provenientes de China, especialmente en el apartado de los vehículos eléctricos. En num…",
+        "url": "https://www.hibridosyelectricos.com/coches/ministro-italiano-industria-apoya-metodo-biden-pide-aranceles-coches-electricos-chinos_74288_102.html",
+        "urlToImage": "https://www.hibridosyelectricos.com/uploads/s1/70/20/85/adolfo-urso-italia_17_2000x1126.jpeg",
+        "publishedAt": "2024-05-28T08:54:28Z",
+        "content": "En las últimas semanas, el ambiente ha estado algo revuelto en términos políticos. Son muchos los que apoyan la incorporación de un sistema de aranceles para los productos provenientes de China, espe… [+2778 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Hibridosyelectricos.com"
+        },
+        "author": "José Escotto",
+        "title": "Potenciar soluciones de movilidad para bicicletas es el objetivo de la reciente unión de la AIC con la AMBE",
+        "description": "El Automotive Intelligence Center (AIC) o Centro Europeo de la Automoción se acaba de convertir en empresa aliada del AMBE, con el objetivo potenciar soluciones de movilidad a través de la cooperación, aprovechando la experiencia y la red de la asociación par…",
+        "url": "https://www.hibridosyelectricos.com/bicicletas/potenciar-soluciones-movilidad-es-objetivo-reciente-union-centro-europeo-automocion-asociacion-marcas-bicicletas-espana_74328_102.html",
+        "urlToImage": "https://www.hibridosyelectricos.com/uploads/s1/70/43/20/aic-1-539x303.png",
+        "publishedAt": "2024-06-01T08:30:00Z",
+        "content": "El Automotive Intelligence Center (AIC) o Centro Europeo de la Automoción se acaba de convertir en empresa aliada del AMBE, con el objetivo potenciar soluciones de movilidad a través de la cooperació… [+2612 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Hibridosyelectricos.com"
+        },
+        "author": "Alberto Pérez",
+        "title": "El CEO de Lamborghini duda sobre los coches deportivos eléctricos: \"Tal vez jamás se popularicen\"",
+        "description": "Hace unos días se desató la polémica cuando el CEO de Rimac, Mate Rimac, popularmente conocido por su superdeportivo eléctrico, el Nevera, dio su opinión sobre los superdeportivos eléctricos. De estos piensa que pueden llegar a no tener el calado esperado den…",
+        "url": "https://www.hibridosyelectricos.com/coches/ceo-lamborghini-duda-sobre-coches-deportivos-electricos-tal-vez-jamas-se-popularicen_74196_102.html",
+        "urlToImage": "https://www.hibridosyelectricos.com/uploads/s1/69/70/80/stephan-winkelmann_17_2000x1126.jpeg",
+        "publishedAt": "2024-05-22T07:15:00Z",
+        "content": "Hace unos días se desató la polémica cuando el CEO de Rimac, Mate Rimac, popularmente conocido por su superdeportivo eléctrico, el Nevera, dio su opinión sobre los superdeportivos eléctricos. De esto… [+3522 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Hibridosyelectricos.com"
+        },
+        "author": "Gonzalo García",
+        "title": "Otra señal de que algo está pasando: Stellantis y Mercedes toman una drástica decisión con sus baterías",
+        "description": "Automotive Cells Company (ACC) es una empresa conjunta participada en un 45% por Stellantis, en un 30% por Mercedes-Benz y el resto por TotalEnergies. Actualmente, está en marcha la construcción de tres fábricas de baterías en Europa con una inversión total d…",
+        "url": "https://www.hibridosyelectricos.com/coches/otra-senal-algo-esta-pasando-stellantis-mercedes-toman-drastica-decision-con-sus-baterias_74411_102.html",
+        "urlToImage": "https://www.hibridosyelectricos.com/uploads/s1/70/91/41/fabrica-baterias-stellantis-mercedes-alemania-1_17_2000x1126.jpeg",
+        "publishedAt": "2024-06-05T09:46:43Z",
+        "content": "Automotive Cells Company (ACC) es una empresa conjunta participada en un 45% por Stellantis, en un 30% por Mercedes-Benz y el resto por TotalEnergies. Actualmente, está en marcha la construcción de t… [+4524 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Diariomotor.com"
+        },
+        "author": "David Durán",
+        "title": "Tras los Solterra y bZ4X, Toyota y Subaru desarrollarán tres crossover EV más para 2026",
+        "description": "Subaru y Toyota se unirán para desarrollar hasta tres vehículos eléctricos crossover diferentes que verían la luz durante el año 2026. Las dos marcas niponas se han vuelto a poner de acuerdo para nutrir a la estrella de Pléyades de vehículos eléctricos, siend…",
+        "url": "https://www.diariomotor.com/noticia/subaru-ev-toyota-2026/",
+        "urlToImage": "https://www.diariomotor.com/imagenes/2021/11/subaru-solterra-2022-16-618d684a6291d.jpg",
+        "publishedAt": "2024-05-13T17:00:56Z",
+        "content": "Subaru y Toyotase unirán para desarrollar hasta tres vehículos eléctricos crossover diferentes que verían la luz durante el año 2026. Las dos marcas niponas se han vuelto a poner de acuerdo para nutr… [+2781 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Diariomotor.com"
+        },
+        "author": "David Durán",
+        "title": "Estos minibuses autónomos de Renault y WeRide te llevarán a Roland Garros",
+        "description": "Renault comenzará a trabajar con la empresa china WeRide para desarrollar su tecnología de conducción autónoma, pero no será para hacer coches autónomos como los entendemos. En su lugar, se centrarán en el desarrollo de minibuses eléctricos autónomos que func…",
+        "url": "https://www.diariomotor.com/noticia/renault-weride-minibus-autonomo/",
+        "urlToImage": "https://www.diariomotor.com/imagenes/2024/05/Credits-oliviermartingambier1-6644d39951d26-scaled.jpg",
+        "publishedAt": "2024-05-18T07:00:19Z",
+        "content": "Renault comenzará a trabajar con la empresa china WeRide para desarrollar su tecnología de conducción autónoma, pero no será para hacer coches autónomos como los entendemos. En su lugar, se centrarán… [+3126 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Diariomotor.com"
+        },
+        "author": "David Durán",
+        "title": "¿Sacar un compacto económico de gasolina a partir de un eléctrico? Parece que se hará realidad pronto en Italia",
+        "description": "Todavía no hay que decir adiós del todo al Fiat 500 de combustible que hemos conocido durante más de tres lustros. Si bien ya terminó la producción del modelo que salió allá por 2017 en Polonia, Del 500e eléctrico podría surgir una variante de gasolina microh…",
+        "url": "https://www.diariomotor.com/noticia/fiat-500e-mhev-mirafiori/",
+        "urlToImage": "https://www.diariomotor.com/imagenes/2020/06/fiat-500e-hatchback-0620-015.jpg",
+        "publishedAt": "2024-05-27T09:05:33Z",
+        "content": "Todavía no hay que decir adiós del todo al Fiat 500 de combustible que hemos conocido durante más de tres lustros. Si bien ya terminó la producción del modelo que salió allá por 2017 en Polonia, Del … [+2980 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Diariomotor.com"
+        },
+        "author": "David Durán",
+        "title": "Tesla reduce su producción en Alemania mientras sigue el descenso de la demanda de eléctricos en Europa",
+        "description": "Este 2024 no está siendo el mejor año en la historia de Tesla. Después de el ataque incendiario el pasado mes de marzo y el ataque en señal de protesta por parte de conglomerados ecologistas en contra de sus planes de expansión, ahora se ha confirmado que par…",
+        "url": "https://www.diariomotor.com/noticia/tesla-reduce-su-produccion-en-alemania-mientras-sigue-el-descenso-de-la-demanda-de-electricos-en-europa/",
+        "urlToImage": "https://www.diariomotor.com/imagenes/2024/06/tesla-reduce-produccion-alemania-1075610.jpeg",
+        "publishedAt": "2024-06-05T15:00:48Z",
+        "content": "Este 2024 no está siendo el mejor año en la historia de Tesla. Después de el ataque incendiario el pasado mes de marzo y el ataque en señal de protesta por parte de conglomerados ecologistas en contr… [+2977 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Diariomotor.com"
+        },
+        "author": "David Durán",
+        "title": "¿Están los SUV compactos híbridos en auge? Estos son los que más ventas están teniendo en Europa",
+        "description": "En este primer cuatrimestre de 2024 en Europa, el Toyota Yaris Cross (que en España fue uno de los diez coches con más matriculaciones) logró superar al Volkswagen T-Roc en la categoría de SUV compactos. Se trata de la primera vez que se ve un SUV con propuls…",
+        "url": "https://www.diariomotor.com/noticia/suv-hibridos-europa-auge/",
+        "urlToImage": "https://www.diariomotor.com/imagenes/2021/09/toyota-yaris-cross-2021-0921-038.jpg",
+        "publishedAt": "2024-06-09T12:00:31Z",
+        "content": "En este primer cuatrimestre de 2024 en Europa, el Toyota Yaris Cross (que en España fue uno de los diez coches con más matriculaciones) logró superar al Volkswagen T-Roc en la categoría de SUV compac… [+3344 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Diariomotor.com"
+        },
+        "author": "David Durán",
+        "title": "EEUU cuadruplicará los aranceles a EV de China",
+        "description": "Estados Unidos (o más bien el gobierno de Joe Biden), en año de elecciones, ha elevado los aranceles a un número de productos procedentes de China – en lugar de establecer una tarifa fija para todo lo que venga del emergente gigante asiático, como hizo el ant…",
+        "url": "https://www.diariomotor.com/noticia/estados-unidos-aranceles-electricos-china/",
+        "urlToImage": "https://www.diariomotor.com/imagenes/2024/03/byd-yangwang-u8-2024-20.jpg",
+        "publishedAt": "2024-05-15T17:00:39Z",
+        "content": "Estados Unidos (o más bien el gobierno de Joe Biden), en año de elecciones, ha elevado los aranceles a un número de productos procedentes de China – en lugar de establecer una tarifa fija para todo l… [+2918 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Diariomotor.com"
+        },
+        "author": "David Durán",
+        "title": "El precio de luchar contra Tesla: Lucid y Rivian sufren perdidas en el 1º cuatrimestre de 2024",
+        "description": "La guerra de precios entre fabricantes de coches eléctricos está siendo dura para los fabricantes con menos recursos. Si Tesla ha sufrido en este primer cuatrimestre, más han sufrido rivales como Lucid (la cual está entrando ahora en el mercado Europeo con su…",
+        "url": "https://www.diariomotor.com/noticia/rivian-lucid-perdidas-q1-2024/",
+        "urlToImage": "https://www.diariomotor.com/imagenes/2024/03/rivian-r2-2026-01.jpg",
+        "publishedAt": "2024-05-12T14:00:31Z",
+        "content": "La guerra de precios entre fabricantes de coches eléctricos está siendo dura para los fabricantes con menos recursos. Si Tesla ha sufrido en este primer cuatrimestre, más han sufrido rivales como Luc… [+3005 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Diariomotor.com"
+        },
+        "author": "David Durán",
+        "title": "En este coche se encuentra la idea clave para que los eléctricos se vendan a precios asequibles",
+        "description": "Casi a modo de respuesta a las declaraciones del director financiero y director de operaciones del Grupo Volkswagen, Arno Antlitz, Citroën tiene en su ë-C3 el camino que hay que vislumbrar para plantar cara a la oleada de coches eléctricos e híbridos enchufab…",
+        "url": "https://www.diariomotor.com/noticia/citroen-e-c3-bateria-asequible/",
+        "urlToImage": "https://www.diariomotor.com/imagenes/2023/10/citroen-c3-lado-ciudad-892855.jpg",
+        "publishedAt": "2024-05-25T15:00:35Z",
+        "content": "Casi a modo de respuesta a las declaraciones del director financiero y director de operaciones del Grupo Volkswagen, Arno Antlitz, Citroën tiene en su ë-C3 el camino que hay que vislumbrar para plant… [+3555 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Diariomotor.com"
+        },
+        "author": "David Durán",
+        "title": "Renault ya tiene compañero de viaje para fabricar el nuevo Twingo eléctrico que costará 20.000 euros",
+        "description": "Con el objetivo de tener listo el nuevo Renault Twingo eléctrico para finales de 2026 y que el precio del mismo esté en unos 20.000 euros, la marca francesa se aliará con un socio procedente de China. Esta noticia llega semanas después de que se anunciara el …",
+        "url": "https://www.diariomotor.com/noticia/renault-ya-tiene-companero-de-viaje-para-fabricar-el-nuevo-twingo-electrico-que-costara-20-000-euros/",
+        "urlToImage": "https://www.diariomotor.com/imagenes/2023/11/renault-twingo-electrico-2026-3.jpg",
+        "publishedAt": "2024-05-31T13:00:17Z",
+        "content": "Con el objetivo de tener listo el nuevo Renault Twingo eléctrico para finales de 2026 y que el precio del mismo esté en unos 20.000 euros, la marca francesa se aliará con un socio procedente de China… [+2915 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Diariomotor.com"
+        },
+        "author": "David Durán",
+        "title": "Toyota, Mazda y Subaru están desarrollando el motor del mañana y sí, es de gasolina",
+        "description": "El motor definitivo del mañana podría estar en desarrollo y venir tanto de Toyota como de dos marcas asociadas a ella, Subaru y Mazda. Se pretende que este motor tenga la suficiente potencia pero que al mismo tiempo sean lo más eficiente posibles y puedan uti…",
+        "url": "https://www.diariomotor.com/noticia/toyota-mazda-subaru-motor-futuro/",
+        "urlToImage": "https://www.diariomotor.com/imagenes/2024/05/motor-combustion-interna-hidrogeno-toyota-1073196.jpg",
+        "publishedAt": "2024-05-28T10:00:52Z",
+        "content": "El motor definitivo del mañana podría estar en desarrollo y venir tanto de Toyota como de dos marcas asociadas a ella, Subaru y Mazda. Se pretende que este motor tenga la suficiente potencia pero que… [+3220 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Diariomotor.com"
+        },
+        "author": "David Durán",
+        "title": "Lo que pensabas que nunca llegaría ocurrirá a finales de 2025: el primer Ferrari 100% eléctrico",
+        "description": "Enzo Ferrari vendía motores, el resto del coche te lo daba gratis. Así se reflejaba en la época del ‘Commendatore’ y, en gran parte, lo ha sido en años más recientes, con el motor y todas las soluciones novedosas que se implementan en cada nuevo modelo el cen…",
+        "url": "https://www.diariomotor.com/noticia/ferrari-ev-2025/",
+        "urlToImage": "https://www.diariomotor.com/imagenes/2020/12/ferrari-sf90-stradale-prueba-dcd-1220-020-mdm.jpg",
+        "publishedAt": "2024-05-23T17:00:37Z",
+        "content": "Enzo Ferrari vendía motores, el resto del coche te lo daba gratis. Así se reflejaba en la época del ‘Commendatore’ y, en gran parte, lo ha sido en años más recientes, con el motor y todas las solucio… [+3080 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Diariomotor.com"
+        },
+        "author": "David Durán",
+        "title": "Adiós a la asociación entre Volkswagen y Renault, pero el Renault Twingo sigue adelante para 2026",
+        "description": "Volkswagen estuvo negociando hasta hace poco con Renault sobre la posibilidad de realizar el desarrollo conjunto de vehículos eléctricos asequibles, lo que hubiera llevado a que el próximo Renault Twingo EV que veremos para 2026 tuviera un hermano gemelo alem…",
+        "url": "https://www.diariomotor.com/noticia/renault-volkswagen-twingo/",
+        "urlToImage": "https://www.diariomotor.com/imagenes/2023/11/renault-twingo-electrico-2026-1.jpg",
+        "publishedAt": "2024-05-22T12:00:43Z",
+        "content": "Volkswagen estuvo negociando hasta hace poco con Renault sobre la posibilidad de realizar el desarrollo conjunto de vehículos eléctricos asequibles, lo que hubiera llevado a que el próximo Renault Tw… [+2736 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Diariomotor.com"
+        },
+        "author": "David Durán",
+        "title": "Este adorable vecino se muda a África por cuestiones de seguridad después de acompañarte durante más de 15 años",
+        "description": "Lo hemos tenido entre nosotros desde 2007 y ha dado miles, por no decir millones de alegrías por todo el mundo. Hablamos del Fiat 500 que, desde Polonia, se ha producido para dar al mundo un vehículo compacto, mono, barato y económico con el que se podía disf…",
+        "url": "https://www.diariomotor.com/noticia/fiat-500-fin-produccion/",
+        "urlToImage": "https://www.diariomotor.com/imagenes/2024/05/fiat-500-dolcevita-playa-elegancia-1073178.jpg",
+        "publishedAt": "2024-05-27T16:00:08Z",
+        "content": "Lo hemos tenido entre nosotros desde 2007 y ha dado miles, por no decir millones de alegrías por todo el mundo. Hablamos del Fiat 500 que, desde Polonia, se ha producido para dar al mundo un vehículo… [+3032 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Diariomotor.com"
+        },
+        "author": "David Durán",
+        "title": "Esta marca china decide centrarse en Europa para evitar la salvaje competencia de vehículos eléctricos",
+        "description": "La situación en el mercado chino es una verdadera guerra de precios, una lucha encarnizada por ver quién logra vender los mejores productos, en gran medida eléctricos e híbridos enchufables, al precio más competitivo posible. Es una competición en la que inev…",
+        "url": "https://www.diariomotor.com/noticia/aiways-alemania/",
+        "urlToImage": "https://www.diariomotor.com/imagenes/2022/10/detalle-trasero-aiways-u6-833345.jpg",
+        "publishedAt": "2024-05-16T12:00:33Z",
+        "content": "La situación en el mercado chino es una verdadera guerra de precios, una lucha encarnizada por ver quién logra vender los mejores productos, en gran medida eléctricos e híbridos enchufables, al preci… [+3105 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Diariomotor.com"
+        },
+        "author": "David Durán",
+        "title": "Mercedes congela el desarrollo de la plataforma eléctrica que debía debutar en 2028",
+        "description": "A raíz de la deceleración en la demanda de vehículos eléctricos, Mercedes ha tomado la decisión de no continuar con el desarrollo de la plataforma MB.EA que estaba desarrollando hasta ahora, la que hubiera sido la base para futuros modelos Clase E y Clase S –…",
+        "url": "https://www.diariomotor.com/noticia/mercedes-plataforma-mbea-electrica/",
+        "urlToImage": "https://www.diariomotor.com/imagenes/2022/11/mercedes-eqe-suv-6-6373dfb40c6f5.jpg",
+        "publishedAt": "2024-05-17T06:00:50Z",
+        "content": "A raíz de la deceleración en la demanda de vehículos eléctricos, Mercedes ha tomado la decisión de no continuar con el desarrollo de la plataforma MB.EA que estaba desarrollando hasta ahora, la que h… [+3090 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Diariomotor.com"
+        },
+        "author": "David Durán",
+        "title": "El próximo Jaguar será un GT eléctrico con 700 km de autonomía y costará unos 116.000 euros",
+        "description": "El próximo Jaguar se aproxima silenciosamente: será un Gran Turismo 100% eléctrico que debería llegar al mercado de cara a 2025, presentándose en Estados Unidos. Se trata de la entrada de Jaguar en una nueva era, habiendo dejado atrás todos sus modelos deport…",
+        "url": "https://www.diariomotor.com/noticia/jaguar-gt-ev-2025/",
+        "urlToImage": "https://www.diariomotor.com/imagenes/2018/11/jaguar-f-type-my-rally-special-2018-20.jpg",
+        "publishedAt": "2024-05-15T11:00:34Z",
+        "content": "El próximo Jaguar se aproxima silenciosamente: será un Gran Turismo 100% eléctrico que debería llegar al mercado de cara a 2025, presentándose en Estados Unidos. Se trata de la entrada de Jaguar en u… [+2643 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Diariomotor.com"
+        },
+        "author": "David Villarreal",
+        "title": "La Unión Europea está cayendo en «una trampa»: si no puedes con tu enemigo, únete a él",
+        "description": "Cosas veredes. La industria europea se encuentra inmersa en un período de gran transformación y la amenaza de la industria china está propiciando movimientos cuanto menos sorprendentes, en un período aún más convulso por la cercanía de los comicios al Parlame…",
+        "url": "https://www.diariomotor.com/noticia/union-europea-trampa-carlos-tavares/",
+        "urlToImage": "https://www.diariomotor.com/imagenes/2024/05/carlos-tavares-industria-automotriz-1072920.jpeg",
+        "publishedAt": "2024-05-24T12:00:42Z",
+        "content": "Cosas veredes. La industria europea se encuentra inmersa en un período de gran transformación y la amenaza de la industria china está propiciando movimientos cuanto menos sorprendentes, en un período… [+3446 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Diariomotor.com"
+        },
+        "author": "David Durán",
+        "title": "¿Deben las marcas occidentales reducir sus costes de producción para competir contra los rivales de China? Eso creen en Volkswagen",
+        "description": "El Grupo Volkswagen considera que la idea de imponer aranceles mayores a los coches eléctricos procedentes de China, medida que entrará en vigor en el mes de agosto en Estados Unidos y se está ponderando en Europa (y que, por tanto, entraría en vigor como muy…",
+        "url": "https://www.diariomotor.com/noticia/vw-reducir-costes/",
+        "urlToImage": "https://www.diariomotor.com/imagenes/2021/05/volkswagen-id4-oferta-mayo-2021-lateral.jpg",
+        "publishedAt": "2024-05-24T14:00:37Z",
+        "content": "El Grupo Volkswagen considera que la idea de imponer aranceles mayores a los coches eléctricos procedentes de China, medida que entrará en vigor en el mes de agosto en Estados Unidos y se está ponder… [+2804 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Diariomotor.com"
+        },
+        "author": "Joel Oliva",
+        "title": "McLaren se teñirá de tributo a Ayrton Senna en el Gran Premio de Mónaco",
+        "description": "Con una seria de homenajes que se llevaron a cabo por la propia Fórmula 1 en el pasado Gran Premio de la Emilia-Romagna, para recordar la figura de Ayrton Senna, y recordar su fatídica muerte 30 años atrás, McLaren ha querido recoger el testigo de estos homen…",
+        "url": "https://www.diariomotor.com/competicion/noticia/mclaren-tributo-ayrton-senna-gran-premio-monaco/",
+        "urlToImage": "https://www.diariomotor.com/imagenes/2024/05/senna-mclaren-monaco-664ca8b70419f-1071969.png",
+        "publishedAt": "2024-05-21T14:00:51Z",
+        "content": "Con una seria de homenajes que se llevaron a cabo por la propia Fórmula 1 en el pasado Gran Premio de la Emilia-Romagna, para recordar la figura de Ayrton Senna, y recordar su fatídica muerte 30 años… [+3225 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Diariomotor.com"
+        },
+        "author": "David Durán",
+        "title": "Tras su éxito en México, este coche eléctrico chino está en el punto de mira de las marcas occidentales ante su llegada a Europa",
+        "description": "Después del Atto 3, el Dolphin y los Seal y Seal U, uno de los próximos modelos de BYD que deberían llegar a nuestro mercado es quizás uno clave: el Seagull, el modelo compacto que debería servir como modelo de acceso y se situaría como un coche eléctrico peq…",
+        "url": "https://www.diariomotor.com/noticia/byd-seagull-europa-mexico/",
+        "urlToImage": "https://www.diariomotor.com/imagenes/2024/05/byd-seagull-llega-europa-1067690.png",
+        "publishedAt": "2024-05-26T10:00:37Z",
+        "content": "Después del Atto 3, el Dolphin y los Seal y Seal U, uno de los próximos modelos de BYD que deberían llegar a nuestro mercado es quizás uno clave: el Seagull, el modelo compacto que debería servir com… [+3067 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Diariomotor.com"
+        },
+        "author": "David Durán",
+        "title": "De pariente alemán del Twingo a punta de lanza de la ofensiva eléctrica de Volkswagen, habrá ID.2 con hermano Cupra para 2025",
+        "description": "En la tarde del pasado martes 28 de abril Volkswagen anunciaba que tenía planes interesantes para introducir modelos eléctricos baratos en Europa, fabricados en Europa. En concreto, destacó hasta cinco modelos, los cuales se harían en España (siendo la de Nav…",
+        "url": "https://www.diariomotor.com/noticia/vw-id2-2025/",
+        "urlToImage": "https://www.diariomotor.com/imagenes/2022/06/cupra-raval-vista-lateral-816337.jpg",
+        "publishedAt": "2024-05-29T12:00:47Z",
+        "content": "En la tarde del pasado martes 28 de abril Volkswagen anunciaba que tenía planes interesantes para introducir modelos eléctricos baratos en Europa, fabricados en Europa. En concreto, destacó hasta cin… [+3200 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Diariomotor.com"
+        },
+        "author": "David Durán",
+        "title": "China quiere que España esté de su lado en el caso de los aranceles de la Unión Europea",
+        "description": "La Unión Europea no tomará ninguna decisión acerca de imponer mayores aranceles a vehículos, tanto eléctricos como híbridos enchufables, procedentes de China para proteger o beneficiar a los fabricantes europeos hasta después de las elecciones al Parlamento E…",
+        "url": "https://www.diariomotor.com/noticia/china-espana-ue/",
+        "urlToImage": "https://www.diariomotor.com/imagenes/2024/05/omoda-5-prueba-13-664b76c96ab87-1071613.jpg",
+        "publishedAt": "2024-06-04T15:00:41Z",
+        "content": "La Unión Europea no tomará ninguna decisión acerca de imponer mayores aranceles a vehículos, tanto eléctricos como híbridos enchufables, procedentes de China para proteger o beneficiar a los fabrican… [+2938 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Diariomotor.com"
+        },
+        "author": "David Villarreal",
+        "title": "La transición al eléctrico está fracasando, la solución puede ser convertir eléctricos en coches de gasolina",
+        "description": "Los signos son más que evidentes. La evolución de las ventas eléctricos en la Unión Europea, que venían creciendo a un ritmo constante y más o menos acusado en función del mercado, se está ralentizando. Reconvertir eléctricos en coches de gasolina La competen…",
+        "url": "https://www.diariomotor.com/noticia/transicion-electrico-fracaso-convertir-coches-gasolina/",
+        "urlToImage": "https://www.diariomotor.com/imagenes/2020/06/fiat-500e-hatchback-0620-019.jpg",
+        "publishedAt": "2024-06-10T07:00:53Z",
+        "content": "Los signos son más que evidentes. La evolución de las ventas eléctricos en la Unión Europea, que venían creciendo a un ritmo constante y más o menos acusado en función del mercado, se está ralentizan… [+3469 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Diariomotor.com"
+        },
+        "author": "David Durán",
+        "title": "Aún les queda mucha cuerda a los motores de gasolina, aunque los eléctricos sean el mañana de la automoción",
+        "description": "En estos momentos, toda la gama eléctrica de modelos de Volkswagen representa un 22% de las ventas para el gigante alemán – de todos ellos, el Volkswagen ID.4 es el que mejores resultados está obteniendo, por delante del resto de la familia ID. Aún así, la ma…",
+        "url": "https://www.diariomotor.com/noticia/ev-motores-gasolina/",
+        "urlToImage": "https://www.diariomotor.com/imagenes/2021/05/volkswagen-id4-oferta-mayo-2021-frontal.jpg",
+        "publishedAt": "2024-06-08T18:00:27Z",
+        "content": "En estos momentos, toda la gama eléctrica de modelos de Volkswagen representa un 22% de las ventas para el gigante alemán – de todos ellos, el Volkswagen ID.4 es el que mejores resultados está obteni… [+3344 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Eleconomista.es"
+        },
+        "author": "Ankor Tejero",
+        "title": "Ayvens, la unión entre ALD Automotive y LeasePlan, prevé sinergias de 440 millones anuales para 2026",
+        "description": "El sector del renting de vehículos tiene un nuevo actor: Ayvens. No es tan nuevo, dado que se trata de la unión entre ALD Automotive y LeasePlan.",
+        "url": "https://www.eleconomista.es/motor/noticias/12841453/05/24/ayvens-la-union-entre-ald-automotive-y-leaseplan-preve-sinergias-de-440-millones-anuales-para-2026.html",
+        "urlToImage": "https://s03.s3c.es/imag/_v0/5315x2901/5/1/0/1200x655_Ayvens.jpg",
+        "publishedAt": "2024-05-30T16:23:33Z",
+        "content": "El sector del renting de vehículos tiene un nuevo actor: Ayvens. No es tan nuevo, dado que se trata de la unión entre ALD Automotive y LeasePlan.\r\nLa primera compró a la segunda hace un año por 4.800… [+1299 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Eleconomista.es"
+        },
+        "author": "Sylvia Longás",
+        "title": "El 26 de junio, podrás pedir este todo terreno de edición limitada: solo 1924 unidades en todo el mundo",
+        "description": "Ineos Automotive presenta su primera edición limitada de su todo terreno Grenadier. Bautizada 1924, llega para conmemorar el primer centenario de la legendaria marca de ropa Belstaff.",
+        "url": "https://www.eleconomista.es/motor/noticias/12817702/05/24/el-26-de-junio-podras-pedir-este-todo-terreno-de-edicion-limitada-solo-1924-unidades-en-todo-el-mundo.html",
+        "urlToImage": "https://s03.s3c.es/imag/_v0/2914x1590/a/1/5/1200x655_INEOSGrenadier_1924_Product_1.jpg",
+        "publishedAt": "2024-05-16T08:34:32Z",
+        "content": "Ineos Automotive presenta su primera edición limitada de su todo terreno Grenadier. Bautizada 1924, llega para conmemorar el primer centenario de la legendaria marca de ropa Belstaff.\r\nEl Grenadier 1… [+1579 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Jornada.com.mx"
+        },
+        "author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
+        "title": "En manufactura, 42% de la inversión que recibió México de enero a marzo",
+        "description": "Del total de la inversión extranjera directa (IED) que recibió México en el primer trimestre, 42 por ciento, es decir, cuatro de cada 10 dólares, tuvo como destino final la industria manufacturera, especialmente el ramo de fabricación de equipo de autotranspo…",
+        "url": "https://www.jornada.com.mx/2024/05/16/economia/019n2eco",
+        "urlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
+        "publishedAt": "2024-05-16T11:02:46Z",
+        "content": "Periódico La JornadaJueves 16 de mayo de 2024, p. 19\r\nDel total de la inversión extranjera directa (IED) que recibió México en el primer trimestre, 42 por ciento, es decir, cuatro de cada 10 dólares,… [+2497 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Xataka.com.mx"
+        },
+        "author": "Adolfo Reséndiz",
+        "title": "\"Es demasiado pronto\": el CEO de Lamborghini cree que aún no existe mercado para los superdeportivos totalmente eléctricos",
+        "description": "El CEO de Lamborghini, Stephan Winkelmann, ha manifestado que aún es temprano para los superdeportivos totalmente eléctricos, resaltando la desaceleración en la adopción de esta tecnología de propulsión, incluso entre los fabricantes de automóviles de lujo.\n\u003C…",
+        "url": "https://www.xataka.com.mx/automovil/demasiado-pronto-ceo-lamborghini-cree-que-no-existe-mercado-para-superdeportivos-totalmente-electricos",
+        "urlToImage": "https://i.blogs.es/ebbec4/lamborghini-electrico/840_560.jpeg",
+        "publishedAt": "2024-05-21T19:04:53Z",
+        "content": "El CEO de Lamborghini, Stephan Winkelmann, ha manifestado que aún es temprano para los superdeportivos totalmente eléctricos, resaltando la desaceleración en la adopción de esta tecnología de propuls… [+3550 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Geeksroom.com"
+        },
+        "author": "Ezequiel Cuevas",
+        "title": "McLaren Presenta la Bicicleta de Montaña Legal para Senderos Más Potente",
+        "description": "McLaren, la reconocida marca de superdeportivos de lujo, ha dado un giro inesperado al mundo de las bicicletas con el lanzamiento de su primera gama …\nThe post McLaren Presenta la Bicicleta de Montaña Legal para Senderos Más Potente first appeared on .",
+        "url": "https://geeksroom.com/2024/05/mclaren-presenta-la-bicicleta-de-montana-legal-para-senderos-mas-potente/138347/",
+        "urlToImage": "https://geeksroom.com/wp-content/uploads/2024/05/McLaren-e-bike-1.jpg",
+        "publishedAt": "2024-05-17T16:16:31Z",
+        "content": "McLaren, la reconocida marca de superdeportivos de lujo, ha dado un giro inesperado al mundo de las bicicletas con el lanzamiento de su primera gama de bicicletas eléctricas. \r\nInspiradas en los prem… [+4193 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Hibridosyelectricos.com"
+        },
+        "author": "Alejandro González",
+        "title": "Renault y Volkswagen rompen: no harán un coche barato porque no puede haber dos gallos en el mismo corral",
+        "description": "La meta de todo fabricante europeo pasa ahora mismo por diseñar un coche eléctrico de precio bajo que les permita llevarse una gran parte de las ventas que espera de manera paciente el lanzamiento de un coche de este tipo. Renault está determinada a lanzar un…",
+        "url": "https://www.hibridosyelectricos.com/coches/renault-volkswagen-rompen-no-haran-coche-barato-porque-no-puede-haber-dos-gallos-en-mismo-corral_74146_102.html",
+        "urlToImage": "https://www.hibridosyelectricos.com/uploads/s1/69/43/02/los-franceses-seguira-n-su-camino-con-el-nuevo-twingo_17_2000x1126.jpeg",
+        "publishedAt": "2024-05-17T16:12:57Z",
+        "content": "La meta de todo fabricante europeo pasa ahora mismo por diseñar un coche eléctrico de precio bajo que les permita llevarse una gran parte de las ventas que espera de manera paciente el lanzamiento de… [+2431 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Movilzona.es"
+        },
+        "author": "Beatriz Soto",
+        "title": "Android 15 y Android Auto se reinventan con más de 10 novedades",
+        "description": "Google acaba de anunciar importantes novedades que están a punto de llegar a tu vida en cuanto actualices tu móvil a Android 15 o disfrutes de todas las novedades que tiene preparadas para ti en tus dispositivos. Son más de 10 las mejoras que ha anunciado a l…",
+        "url": "https://www.movilzona.es/noticias/actualizaciones/novedades-android-15-android-auto/",
+        "urlToImage": "https://www.movilzona.es/app/uploads-movilzona.es/2024/05/android-15-y-android-auto.jpg",
+        "publishedAt": "2024-05-16T17:34:39Z",
+        "content": "A lo largo de de este año, muchos móviles se van a actualizar y van a descubrir todo lo que Google ha preparado para nosotros, que no es poco. Pero para que no te pille por sorpresa, te comentamos la… [+6333 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Eleconomista.es"
+        },
+        "author": "elEconomista.es",
+        "title": "CIE firma un préstamo de 36 millones con el BEI para desarrollar tecnologías más sostenibles",
+        "description": "El Banco Europeo de Inversiones (BEI) y CIE Automotive han firmado un préstamo por valor de 36 millones de euros para financiar las actividades de investigación, desarrollo e innovación de la compañía, así como su aplicación en la fabricación de componentes d…",
+        "url": "https://www.eleconomista.es/motor/noticias/12842434/05/24/cie-firma-un-prestamo-de-36-millones-con-el-bei-para-desarrollar-tecnologias-mas-sostenibles.html",
+        "urlToImage": "https://s03.s3c.es/imag/_v0/4128x2253/5/9/5/1200x655_PRADERA.jpg",
+        "publishedAt": "2024-05-31T10:22:42Z",
+        "content": "El Banco Europeo de Inversiones (BEI) y CIE Automotive han firmado un préstamo por valor de 36 millones de euros para financiar las actividades de investigación, desarrollo e innovación de la compañí… [+2076 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Www.abc.es"
+        },
+        "author": "(abc)",
+        "title": "La burbuja china inunda el mercado de marcas de coches desconocidas",
+        "description": "La Asociación de Marketing de España ha publicado un informe en el que se pone de manifiesto que un 31% de los españoles no recuerda ninguna marca china de vehículos. No es de extrañar, pues, en comparación con sus rivales europeos, los fabricantes de la zona…",
+        "url": "https://www.abc.es/motor/economia/burbuja-china-inunda-mercado-marcas-coches-desconocidas-20240530130723-nt.html",
+        "urlToImage": "https://s2.abcstatics.com/abc/www/multimedia/motor/2024/05/30/coches-chinos-collage-U54834716018ssh-1024x512@diario_abc.jpg",
+        "publishedAt": "2024-05-30T11:07:24Z",
+        "content": "La Asociación de Marketing de España ha publicado un informe en el que se pone de manifiesto que un 31% de los españoles no recuerda ninguna marca china de vehículos. No es de extrañar, pues, en comp… [+4909 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Forbes.com.mx"
+        },
+        "author": "Mónica Valladolid",
+        "title": "Mexicanos son infieles a las marcas de autos consolidadas: sondeo",
+        "description": "Forbes México.\n Mexicanos son infieles a las marcas de autos consolidadas: sondeo\n\nSolo 25% de los mexicanos guarda lealtad a las marcas de autos consolidadas, de acuerdo con cifras de Google.\nMexicanos son infieles a las marcas de autos consolidadas: sondeo\n…",
+        "url": "https://www.forbes.com.mx/mexicanos-son-infieles-a-las-marcas-de-autos-consolidadas-sondeo/",
+        "urlToImage": "https://cdn.forbes.com.mx/2024/06/auto-automotriz-.webp",
+        "publishedAt": "2024-06-10T21:10:08Z",
+        "content": "En el mercado de autos en México hay mucha oportunidad para las marcas nuevas, toda vez que es muy baja la lealtad de los mexicanos hacia las marcas consolidadas, de acuerdo con especialistas de Goog… [+1723 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Diariomotor.com"
+        },
+        "author": "Javier Montoro",
+        "title": "La bajada de precios de Tesla ha hundido el valor residual de sus coches y esto ha cabreado mucho a sus principales clientes",
+        "description": "«No se podía saber», diría alguno. Los agresivos recortes en las tarifas de Tesla que acontecieron el año pasado tenían como objetivo impulsar las ventas y lastrar las de su competencia. Sin embargo, aquella estrategia comercial ha terminado por afectar de un…",
+        "url": "https://www.diariomotor.com/noticia/bajada-precio-tesla-hunde-valor-residual-flotas/",
+        "urlToImage": "https://www.diariomotor.com/imagenes/2024/05/GF7awo2WcAAt-XA-scaled.jpeg",
+        "publishedAt": "2024-05-20T19:00:13Z",
+        "content": "«No se podía saber», diría alguno. Los agresivos recortes en las tarifas de Tesla que acontecieron el año pasado tenían como objetivo impulsar las ventas y lastrar las de su competencia. Sin embargo,… [+4474 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Diariomotor.com"
+        },
+        "author": "David Durán",
+        "title": "Estos coches son la antítesis de los SUV, ¿podrían funcionar en Europa?",
+        "description": "En ocasiones recientes hemos escuchado al CEO de Renault, Luca de Meo, realizando comentarios sobre los Kei Car y su viabilidad en Europa. Los Kei Car son coches ligeros (literalmente es su significado en japonés), de tamaño reducido y una cilindrada no mayor…",
+        "url": "https://www.diariomotor.com/noticia/kei-cars-luca-meo-renault-twingo/",
+        "urlToImage": "https://www.diariomotor.com/imagenes/2023/11/renault-twingo-2026-3.jpeg",
+        "publishedAt": "2024-05-21T08:00:24Z",
+        "content": "En ocasiones recientes hemos escuchado al CEO de Renault, Luca de Meo, realizando comentarios sobre los Kei Car y su viabilidad en Europa. Los Kei Car son coches ligeros (literalmente es su significa… [+3680 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Diariomotor.com"
+        },
+        "author": "David Villarreal",
+        "title": "Japón aprieta a sus fabricantes de coches y destapa comportamientos inapropiados en las pruebas de seguridad y emisiones",
+        "description": "«Como la persona responsable del Grupo Toyota quiero trasladar mis disculpas más sinceras a nuestros clientes, aficionados del automóvil, y a todos los inversores, por este asunto», así iniciaba junto con una reverencia Akio Toyoda, como Presidente de la Junt…",
+        "url": "https://www.diariomotor.com/noticia/japon-aprieta-fabricantes-coches-comportamientos-inapropiados/",
+        "urlToImage": "https://www.diariomotor.com/imagenes/2024/06/akio-toyoda-investigacion-seguridad-1075052.png",
+        "publishedAt": "2024-06-04T06:00:33Z",
+        "content": "«Como la persona responsable del Grupo Toyota quiero trasladar mis disculpas más sinceras a nuestros clientes, aficionados del automóvil, y a todos los inversores, por este asunto», así iniciaba junt… [+4867 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Hibridosyelectricos.com"
+        },
+        "author": "Javier Gómara",
+        "title": "Trabajan en dos coches eléctricos, pero este fabricante cree que la estrategia 2035 va a fracasar",
+        "description": "Nadie puede predecir el futuro con certeza. Es imposible medir o calcular cómo se comportará el ser humano dentro de unos años. Menos si cabe en un mundo tan cambiante como el actual. Sin embargo, Europa tiene un objetivo muy claro con respecto a la movilidad…",
+        "url": "https://www.hibridosyelectricos.com/coches/trabajan-en-dos-coches-electricos-pero-este-fabricante-cree-estrategia-2035-va-fracasar_74176_102.html",
+        "urlToImage": "https://www.hibridosyelectricos.com/uploads/s1/69/59/03/ineos-grenadier-detalle_17_2000x1126.jpeg",
+        "publishedAt": "2024-05-22T06:15:00Z",
+        "content": "Nadie puede predecir el futuro con certeza. Es imposible medir o calcular cómo se comportará el ser humano dentro de unos años. Menos si cabe en un mundo tan cambiante como el actual. Sin embargo, Eu… [+3318 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Hibridosyelectricos.com"
+        },
+        "author": "Alberto Pérez",
+        "title": "Citroën, con el nuevo ë-C3 eléctrico, se auto proclama rival directo de Dacia: \"Esto ya no es un tabú\"",
+        "description": "A día de hoy, si se piensa en cuáles son los coches eléctricos más baratos del mercado, salta al imaginario popular de forma casi instantánea el renovado Dacia Spring, el cual parte de unos 17.890 euros sin ayudas o descuentos añadidos. De esta manera, es ofi…",
+        "url": "https://www.hibridosyelectricos.com/coches/citroen-con-nuevo-e-c3-electrico-se-auto-proclama-rival-directo-dacia-esto-ya-no-es-tabu_74284_102.html",
+        "urlToImage": "https://www.hibridosyelectricos.com/uploads/s1/70/19/25/dacia-vs-citroen_17_2000x1126.jpeg",
+        "publishedAt": "2024-05-30T05:30:00Z",
+        "content": "A día de hoy, si se piensa en cuáles son los coches eléctricos más baratos del mercado, salta al imaginario popular de forma casi instantánea el renovado Dacia Spring, el cual parte de unos 17.890 eu… [+3162 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Hibridosyelectricos.com"
+        },
+        "author": "Alberto Pérez",
+        "title": "Hasta ahora conocíamos muchos detalles del nuevo Ford Capri eléctrico, pero no su fecha de presentación",
+        "description": "Hace tan sólo unos días publicamos aquí un buen repaso sobre lo que traerá bajo el brazo el nuevo Ford Capri, un SUV eléctrico que se asentará sobre la plataforma MEB del Grupo Volkswagen, al igual que ya sucede con el nuevo Explorer eléctrico. Como se puede …",
+        "url": "https://www.hibridosyelectricos.com/coches/hasta-ahora-conociamos-muchos-detalles-nuevo-ford-capri-electrico-pero-no-su-fecha-presentacion_74459_102.html",
+        "urlToImage": "https://www.hibridosyelectricos.com/uploads/s1/71/19/88/ford-explorer_17_2000x1126.jpeg",
+        "publishedAt": "2024-06-09T08:30:00Z",
+        "content": "Hace tan sólo unos días publicamos aquí un buen repaso sobre lo que traerá bajo el brazo el nuevo Ford Capri, un SUV eléctrico que se asentará sobre la plataforma MEB del Grupo Volkswagen, al igual q… [+2750 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Hibridosyelectricos.com"
+        },
+        "author": "Alberto Pérez",
+        "title": "Pese a la tendencia, Opel se mantiene firme y contará con una gama 100% eléctrica en los plazos anunciados",
+        "description": "En los últimos meses ha sido una tendencia constante que marcas 'clásicas' anuncien nuevos objetivos a medio plazo. Muchas de ellas que hasta hace unos años pronosticaban convertirse a 100% eléctricas a finales de esta década, han cambiado sus planes y han po…",
+        "url": "https://www.hibridosyelectricos.com/coches/pese-tendencia-opel-se-mantiene-firme-contara-con-gama-100-electrica-en-plazos-anunciados_74088_102.html",
+        "urlToImage": "https://www.hibridosyelectricos.com/uploads/s1/69/13/31/florian-huettl-ceo-opel_17_2000x1126.jpeg",
+        "publishedAt": "2024-05-16T05:30:00Z",
+        "content": "En los últimos meses ha sido una tendencia constante que marcas clásicas anuncien nuevos objetivos a medio plazo. Muchas de ellas que hasta hace unos años pronosticaban convertirse a 100% eléctricas … [+3118 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Hibridosyelectricos.com"
+        },
+        "author": "Alberto Pérez",
+        "title": "Stellantis recula sobre sus planes de electrificación iniciales: ahora necesita más coches híbridos",
+        "description": "FIAT lanzará una versión híbrida del 500. En los planes iniciales de la compañía durante el lanzamiento del coche, se declaró totalmente decidida a que este fuese totalmente eléctrico. Nada de versiones híbridas o térmicas. Sin embargo, el devenir de la situa…",
+        "url": "https://www.hibridosyelectricos.com/coches/stellantis-recula-sobre-sus-planes-electrificacion-iniciales-ahora-necesita-mas-coches-hibridos_74291_102.html",
+        "urlToImage": "https://www.hibridosyelectricos.com/uploads/s1/70/22/93/jeep-4xe_17_2000x1126.jpeg",
+        "publishedAt": "2024-05-28T10:00:34Z",
+        "content": "FIAT lanzará una versión híbrida del 500. En los planes iniciales de la compañía durante el lanzamiento del coche, se declaró totalmente decidida a que este fuese totalmente eléctrico. Nada de versio… [+3097 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Hibridosyelectricos.com"
+        },
+        "author": "Alberto Pérez",
+        "title": "El ex CEO del Grupo Volkswagen cree que imponer aranceles a China es contraproducente",
+        "description": "Aún no se ha tomado una decisión definitiva, pero todo apunta a que los planes de la Unión Europea están encaminados hacia la imposición de aranceles a la importación de coches eléctricos chinos. Todo comenzó a sonar hace unos meses, cuando a finales del pasa…",
+        "url": "https://www.hibridosyelectricos.com/coches/ex-ceo-grupo-volkswagen-cree-imponer-aranceles-china-es-contraproducente_74406_102.html",
+        "urlToImage": "https://www.hibridosyelectricos.com/uploads/s1/70/88/85/herbert-diess-2_17_2000x1126.jpeg",
+        "publishedAt": "2024-06-06T05:00:00Z",
+        "content": "Aún no se ha tomado una decisión definitiva, pero todo apunta a que los planes de la Unión Europea están encaminados hacia la imposición de aranceles a la importación de coches eléctricos chinos. Tod… [+3223 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Hibridosyelectricos.com"
+        },
+        "author": "Alberto Pérez",
+        "title": "Toyota asegura que se está \"poniendo al día\" con los coches eléctricos. ¿Nuevos modelos a la vista?",
+        "description": "Toyota es la compañía que más coches vende del planeta. Parte de este éxito es gracias a sus archiconocidos modelos con mecánicas híbridas, los cuales son capaces de alcanzar unos niveles de consumo irrisorios en el día a día. Sin embargo, en el terreno de lo…",
+        "url": "https://www.hibridosyelectricos.com/coches/toyota-asegura-se-esta-poniendo-dia-con-coches-electricos-nuevos-modelos-vista_74224_102.html",
+        "urlToImage": "https://www.hibridosyelectricos.com/uploads/s1/69/84/26/toyota-ev-concept_17_2000x1126.jpeg",
+        "publishedAt": "2024-05-24T05:00:00Z",
+        "content": "Toyota es la compañía que más coches vende del planeta. Parte de este éxito es gracias a sus archiconocidos modelos con mecánicas híbridas, los cuales son capaces de alcanzar unos niveles de consumo … [+3667 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Hibridosyelectricos.com"
+        },
+        "author": "Alejandro González",
+        "title": "\"La carrera del coche eléctrico se ha convertido en una carrera de reducción de costes\"",
+        "description": "Fabricar un coche eléctrico cuesta entre un 40 y un 50 % más que uno de combustión equivalente. Esto hace que irremediablemente su precio de venta al público, el precio final, sea muy superior. Esto ha hecho que los fabricantes expriman al máximo sus recursos…",
+        "url": "https://www.hibridosyelectricos.com/coches/carrera-coche-electrico-se-ha-convertido-en-carrera-reduccion-costes_74338_102.html",
+        "urlToImage": "https://www.hibridosyelectricos.com/uploads/s1/70/48/56/carlos-tavares-avisa-sobre-el-cambio-que-se-producira-en-materia-de-proveedores_17_2000x1126.jpeg",
+        "publishedAt": "2024-05-30T11:34:16Z",
+        "content": "Fabricar un coche eléctrico cuesta entre un 40 y un 50 % más que uno de combustión equivalente. Esto hace que irremediablemente su precio de venta al público, el precio final, sea muy superior. Esto … [+2694 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Hibridosyelectricos.com"
+        },
+        "author": "Javier Gómara",
+        "title": "Thomas Ingenlath, CEO de Polestar, horrorizado por los aranceles americanos al coche chino",
+        "description": "No es ningún secreto que China hace tiempo que dejó de ser el gigante dormido que siempre había sido. El país ha despuntado con el coche eléctrico como principal fuerza impulsora. La situación ha puesto en jaque a una industria que genera miles de millones y …",
+        "url": "https://www.hibridosyelectricos.com/coches/thomas-ingenlath-ceo-polestar-horrorizado-por-aranceles-americanos-coche-chino_74364_102.html",
+        "urlToImage": "https://www.hibridosyelectricos.com/uploads/s1/70/63/80/thomas-ingenlath_17_2000x1126.jpeg",
+        "publishedAt": "2024-06-03T07:56:45Z",
+        "content": "No es ningún secreto que China hace tiempo que dejó de ser el gigante dormido que siempre había sido. El país ha despuntado con el coche eléctrico como principal fuerza impulsora. La situación ha pue… [+3265 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Hibridosyelectricos.com"
+        },
+        "author": "Javier Gómara",
+        "title": "Planes eléctricos de Subaru: 3 lanzamientos compartidos con Toyota y 4 desarrollos propios",
+        "description": "Subaru es un buen fabricante, pero pequeño si tenemos en cuenta los estándares actuales de la industria. En estos tiempos de cambio resulta muy difícil emprender la batalla en solitario. El coche eléctrico acapara toda la atención, pero su desarrollo es todav…",
+        "url": "https://www.hibridosyelectricos.com/coches/subaru-tres-suv-electricos-toyota_74061_102.html",
+        "urlToImage": "https://www.hibridosyelectricos.com/uploads/s1/68/99/46/subaru-solterra-fontal_17_2000x1126.jpeg",
+        "publishedAt": "2024-05-14T06:29:38Z",
+        "content": "Subaru es un buen fabricante, pero pequeño si tenemos en cuenta los estándares actuales de la industria. En estos tiempos de cambio resulta muy difícil emprender la batalla en solitario. El coche elé… [+3183 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Hibridosyelectricos.com"
+        },
+        "author": "Híbridos y Eléctricos",
+        "title": "A España se le escapa la Gigafactoría de baterías de Renault \"por falta de clientes interesados\"",
+        "description": "Renault decidió dividir su negocio en dos entidades. La primera mantiene el nombre de Renault y se centra en vehículos eléctricos. Con ella trata de dar respuesta a un mercado que, en Europa, tiene un potencial de 2,5 millones de clientes. La segunda es HORSE…",
+        "url": "https://www.hibridosyelectricos.com/coches/espana-se-escapa-gigafactoria-baterias-renault-por-falta-clientes-interesados_74413_102.html",
+        "urlToImage": "https://www.hibridosyelectricos.com/uploads/s1/71/11/55/gigafactoria-baterias-renault-espana-1_17_2000x1126.jpeg",
+        "publishedAt": "2024-06-07T05:35:26Z",
+        "content": "Renault decidió dividir su negocio en dos entidades. La primera mantiene el nombre de Renault y se centra en vehículos eléctricos. Con ella trata de dar respuesta a un mercado que, en Europa, tiene u… [+3546 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Eleconomista.es"
+        },
+        "author": "elEconomista.es",
+        "title": "Así es el nuevo Android Auto: el mayor cambio de su historia para dejar atrás Apple Car",
+        "description": "Google ha anunciado una revolución en el sistema de Android Auto con la integración de nuevas aplicaciones de juegos, reproducción de vídeo y navegación que irán llegando a lo largo de los próximos meses a los usuarios que utilicen el sistema en sus vehículos…",
+        "url": "https://www.eleconomista.es/tecnologia/noticias/12821786/05/24/asi-es-el-nuevo-android-auto-el-mayor-cambio-de-su-historia-para-dejar-atras-apple-car.html",
+        "urlToImage": "https://s03.s3c.es/imag/_v0/1200x655/2/3/a/android.jpg",
+        "publishedAt": "2024-05-18T12:55:39Z",
+        "content": "Google ha anunciado una revolución en el sistema de Android Auto con la integración de nuevas aplicaciones de juegos, reproducción de vídeo y navegación que irán llegando a lo largo de los próximos m… [+2521 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "DW (English)"
+        },
+        "author": "Robert Mudge",
+        "title": "Los fabricantes alemanes de autos temen las represalias chinas",
+        "description": "Al igual que Estados Unidos, la UE podría imponer pronto aranceles a las importaciones de vehículos eléctricos chinos. Previsiblemente, la Unión Europea publicará en junio de 2024 una lista provisional de derechos de importación para vehículos eléctricos chin…",
+        "url": "https://www.dw.com/es/los-fabricantes-alemanes-de-autos-temen-las-represalias-chinas/a-69218503",
+        "urlToImage": "https://static.dw.com/image/69083300_6.jpg",
+        "publishedAt": "2024-05-29T17:51:00Z",
+        "content": "Previsiblemente, la Unión Europea publicará en junio de 2024 una lista provisional de derechos de importación para vehículos eléctricos chinos. En octubre de 2023, los expertos de la UE iniciaron una… [+4059 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Expansion.com"
+        },
+        "author": "Esperanza Balaguer",
+        "title": "Los estados donde viven los multimillonarios de EEUU",
+        "description": "Estados Unidos es el país del mundo con el mayor número de multimillonarios. Lo habitual es pensar que la mayoría viven en Nueva York, California o Florida, pero la realidad es que están repartidos por los lugares más remotos de la geografía. Leer",
+        "url": "https://www.expansion.com/economia/2024/05/29/665741a6e5fdeaa5678b45b6.html",
+        "urlToImage": "https://phantom-expansion.unidadeditorial.es/8f1324a5a1b87fd2984916300a267d6a/crop/196x29/1795x1096/resize/1200/f/webp/assets/multimedia/imagenes/2024/05/29/17169970460409.jpg",
+        "publishedAt": "2024-05-29T21:54:56Z",
+        "content": "Estados Unidos es el país del mundo con el mayor número de multimillonarios. Lo habitual es pensar que la mayoría viven en Nueva York, California o Florida, pero la realidad es que están repartidos p… [+24285 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Elconfidencial.com"
+        },
+        "author": "Lorena Bustabad. Ferrol",
+        "title": "Lo que 8.000 coches eléctricos en el puerto de Ferrol explican de la estrategia industrial de Pekín",
+        "description": "China ha puesto sus ojos en Europa para su apuesta por la movilidad eléctrica. Una empresa del gigante asiático abre sucursal en el puerto exterior de la ciudad para distribuir seis modelos de vehículos de alta gama",
+        "url": "https://www.elconfidencial.com/espana/galicia/2024-05-16/coches-electricos-ferrol-puerto-estrategia-china_3883598/",
+        "urlToImage": "https://images.ecestaticos.com/TNB4amBsk_c2Ez4ffjKQfyfOlCk=/0x0:2272x1515/600x315/filters:fill(white):format(jpg):quality(99):watermark(f.elconfidencial.com/file/bae/eea/fde/baeeeafde1b3229287b0c008f7602058.png,0,275,1)/f.elconfidencial.com/original/c84/af8/8bd/c84af88bdbde431ae39b03e8a91dee9b.jpg",
+        "publishedAt": "2024-05-16T03:00:00Z",
+        "content": "China ha encontrado en Ferrol una puerta al mercado europeo para sus coches 100% eléctricos, decidida a superar a Tesla con modelos de prestaciones similares, pero a menor precio. Fue el jueves pasad… [+5929 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Eleconomista.es"
+        },
+        "author": "Ankor Tejero",
+        "title": "La china Arcfox llega a España con cuatro coches eléctricos con precios entre los 30.000 y 60.000 euros",
+        "description": "La automovilística china Arcfox, dependiente del grupo BAIC, ya ha iniciado sus operaciones en España.",
+        "url": "https://www.eleconomista.es/motor/noticias/12810086/05/24/la-china-arcfox-llega-a-espana-con-cuatro-coches-electricos-con-precios-entre-los-30000-y-60000-euros.html",
+        "urlToImage": "https://s03.s3c.es/imag/_v0/5472x2986/8/f/3/1200x655_Arcfox.jpg",
+        "publishedAt": "2024-05-10T17:05:45Z",
+        "content": "La automovilística china Arcfox, dependiente del grupo BAIC, ya ha iniciado sus operaciones en España.\r\nLa firma asiática desembarca en España con cuatro modelos eléctricos aunque, por ahora, tan sol… [+1660 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Forbes.com.mx"
+        },
+        "author": "Forbes Staff",
+        "title": "Tesla impulsa la implementación de conducción autónoma ‘Full Self-Driving’ avanzada en China",
+        "description": "Forbes México.\n Tesla impulsa la implementación de conducción autónoma ‘Full Self-Driving’ avanzada en China\n\nTesla también está considerando vender el software como una suscripción mensual a los usuarios de sus automóviles en China, su segundo mercado más gr…",
+        "url": "https://www.forbes.com.mx/tesla-impulsa-la-implementacion-de-conduccion-autonoma-full-self-driving-avanzada-en-china/",
+        "urlToImage": "https://cdn.forbes.com.mx/2023/03/plata-autos-tesla-e1677782158161.webp",
+        "publishedAt": "2024-05-30T16:40:29Z",
+        "content": "Tesla se está preparando para registrar su software ‘Full Self-Driving’ (FSD) ante las autoridades de China en el período previo al lanzamiento previsto de la función tecnológicamente avanzada este a… [+4599 chars]"
+      }
+    ]
+  }

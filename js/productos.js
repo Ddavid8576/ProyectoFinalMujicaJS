@@ -1,38 +1,24 @@
+
 // Array de productos
 const productos = [
-    {
-        id: 1,
-        nombre: 'Kit de embrague (clutch kit)',
-        precio: 85000,
-        imagen: './img/embrague.webp'
-    },
-    {
-        id: 2,
-        nombre: 'Motor de arranque',
-        precio: 65990,
-        imagen: './img/arranque.webp'
-    },
-    {
-        id: 3,
-        nombre: 'Kit Empaques Motor 1600',
-        precio: 12590,
-        imagen: './img/empaque.webp'
-    },
-    {
-        id: 4,
-        nombre: 'Faro Volkswagen Sedan',
-        precio: 33590,
-        imagen: './img/faros.webp'
-    }
+    { id: 1, nombre: 'Kit de embrague (clutch kit)', precio: 85000, imagen: './img/embrague.webp' },
+    { id: 2, nombre: 'Motor de arranque', precio: 65990, imagen: './img/arranque.webp' },
+    { id: 3, nombre: 'Kit Empaques Motor 1600', precio: 12590, imagen: './img/empaque.webp' },
+    { id: 4, nombre: 'Faro Volkswagen Sedan', precio: 33590, imagen: './img/faros.webp' }
 ];
 
-// Funcion para generar productos
+// Funcion para generar las tarjetas de productos
 function generarTarjetasProductos() {
-    const productList = document.getElementById('product-list');
+    const listaProductos = document.getElementById('product-list');
+    if (!listaProductos) {
+        console.error('Elemento "product-list" no encontrado');
+        return;
+    }
+
     productos.forEach(producto => {
-        const productCard = document.createElement('div');
-        productCard.className = 'col-12 col-md-6 col-lg-3';
-        productCard.innerHTML = `
+        const tarjetaProducto = document.createElement('div');
+        tarjetaProducto.className = 'col-12 col-md-6 col-lg-3';
+        tarjetaProducto.innerHTML = `
             <div class="card h-100" data-aos="zoom-in" data-aos-duration="700">
                 <img src="${producto.imagen}" class="card-img-top" alt="${producto.nombre}">
                 <div class="card-body">
@@ -42,12 +28,11 @@ function generarTarjetasProductos() {
                 </div>
             </div>
         `;
-        
-        productList.appendChild(productCard);
+        listaProductos.appendChild(tarjetaProducto);
     });
 }
 
-
+// Funcion para agregar un producto al carrito
 function agregarAlCarrito(idProducto) {
     let carrito = JSON.parse(localStorage.getItem('cart')) || [];
     const producto = productos.find(p => p.id === idProducto);
@@ -62,10 +47,10 @@ function agregarAlCarrito(idProducto) {
 
     localStorage.setItem('cart', JSON.stringify(carrito));
 
-
+    // Notificacion con Toastify
     Toastify({
         text: `${producto.nombre} agregado al carrito`,
-        duration: 1500,
+        duration: 3000,
         close: true,
         gravity: "top",
         position: "right",
@@ -75,35 +60,44 @@ function agregarAlCarrito(idProducto) {
 }
 
 function cargarNoticias() {
-    const url = `https://newsapi.org/v2/everything?q=automotive&language=es&apiKey=8d45bd1c6bb24b97afe4023cf7717e6d`;
-
-    fetch(url)
+    fetch('noticias.json')
         .then(response => response.json())
-        .then(data => mostrarNoticias(data.articles))
+        .then(data => {
+            if (!data.articles) {
+                throw new Error('No se encontraron artículos en la API');
+            }
+            mostrarNoticias(data.articles);
+        })
         .catch(error => console.error('Error al cargar las noticias:', error));
 }
 
 function mostrarNoticias(noticias) {
-    const newsList = document.getElementById('news-list');
-    newsList.innerHTML = '';
+    const listaNoticias = document.getElementById('news-list');
+    if (!listaNoticias) {
+        console.error('Elemento "news-list" no encontrado');
+        return;
+    }
+    listaNoticias.innerHTML = '';
 
     noticias.forEach(noticia => {
-        const newsElement = document.createElement('div');
-        newsElement.className = 'col-12 col-md-6 col-lg-3';
-        newsElement.innerHTML = `
+        const elementoNoticia = document.createElement('div');
+        elementoNoticia.className = 'col-12 col-md-6 col-lg-3';
+        elementoNoticia.innerHTML = `
             <div class="card h-100">
                 <img src="${noticia.urlToImage}" class="card-img-top" alt="${noticia.title}">
                 <div class="card-body">
                     <h5 class="card-title">${noticia.title}</h5>
                     <p class="card-text">${noticia.description}</p>
-                    <a href="${noticia.url}" target="_blank" class="btn btn-outline-dark btn-lg">
-                        Leer más
-                    </a>
+                    <a href="${noticia.url}" target="_blank" class="btn btn-outline-dark btn-lg">Leer más</a>
                 </div>
             </div>
         `;
-        newsList.appendChild(newsElement);
+        listaNoticias.appendChild(elementoNoticia);
     });
 }
 
-generarTarjetasProductos();
+// Funcion iniciar productos y noticias
+document.addEventListener('DOMContentLoaded', () => {
+    generarTarjetasProductos();
+    cargarNoticias();
+});
