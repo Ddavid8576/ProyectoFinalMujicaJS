@@ -1,0 +1,367 @@
+@font-face {
+  font-family: "VW Head Regular";
+  font-style: normal;
+  font-weight: normal;
+  src: url(../fonts/VWHeadRegular.woff) format("woff");
+}
+@font-face {
+  font-family: "VW Head Bold";
+  font-style: normal;
+  font-weight: normal;
+  src: url(../fonts/VWHeadBold.woff) format("woff");
+}
+@font-face {
+  font-family: "VW Text Regular";
+  font-style: normal;
+  font-weight: normal;
+  src: url(../fonts/VWTextRegular.woff) format("woff");
+}
+@font-face {
+  font-family: "VW Text Bold";
+  font-style: normal;
+  font-weight: normal;
+  src: url(../fonts/VWTextBold.woff) format("woff");
+}
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  color: #333;
+  font-family: "VW Text Regular";
+  background-image: url(../img/fondo.webp);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  min-height: 100vh;
+  padding-bottom: 150px;
+}
+
+h1 {
+  font-family: "VW Head Bold";
+  font-size: 35px;
+}
+
+.navbar {
+  background-color: rgba(230, 149, 43, 0.737);
+}
+
+.nav-link {
+  color: #fff !important;
+  font-size: 20px;
+  text-shadow: 0 0 5px #000;
+}
+.nav-link:hover {
+  color: #000 !important;
+  font-weight: 300;
+}
+
+.slide img {
+  height: 600px;
+}
+
+.nuestrosProductos {
+  color: #fff;
+  font-family: "VW Head Regular";
+  text-align: center;
+  background-color: rgba(0, 0, 0, 0.783);
+  padding: 30px;
+  font-size: 35px;
+  font-weight: bold;
+  text-shadow: 0 0 5px #000;
+  margin-bottom: 20px;
+  margin-top: 30px;
+}
+
+
+h4 {
+  color: #fff;
+  font-family: "VW Head Regular";
+  text-align: center;
+  background-color: rgba(0, 0, 0, 0.783);
+  padding: 30px;
+  font-size: 35px;
+  font-weight: bold;
+  text-shadow: 0 0 5px #000;
+  margin-bottom: 20px;
+  user-select: none;
+}
+
+.card {
+  border: 3px solid rgba(0, 0, 0, 0.7176470588);
+  border-radius: 10px;
+  background-color: rgba(230, 149, 43, 0.737);
+  color: #fff !important;
+}
+.card img {
+  height: 300px;
+}
+.card:hover {
+  transform: scale(1.1) !important;
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.7);
+}
+.card:hover h5 {
+  color: #000;
+  font-family: "VW Text Bold";
+  font-weight: bold;
+}
+
+
+.btn-dark:hover {
+  color: orange;
+  transform: scale(1.1);
+}
+
+.contenedor_carrito{
+  color: #fff;
+  font-family: "VW Head Regular";
+  text-align: center;
+  background-color: rgba(0, 0, 0, 0.466);
+  padding: 30px;
+  margin-bottom: 20px;
+  width: 100%;
+}
+
+.galeria {
+  width: 100%;
+  height: auto;
+  background-color: rgba(230, 149, 43, 0.737);
+  display: grid;
+  grid-template-columns: 1fr;
+  grid-template-rows: repeat(12, 200px);
+  padding: 20px;
+  grid-gap: 20px;
+  position: relative;
+  overflow: hidden;
+}
+
+.item {
+  border: 3px solid rgba(0, 0, 0, 0.7176470588);
+  border-radius: 10px;
+  background-size: cover;
+  background-position: center;
+  transition: transform 0.3s ease-in-out;
+}
+.item:hover {
+  filter: opacity(0.9);
+  transform: scale(1.1);
+}
+
+.contenedor_carrito {
+  user-select: none;
+}
+
+
+
+
+.item1 {
+  background-image: url(../img/item1.webp);
+}
+
+.item2 {
+  background-image: url(../img/item2.webp);
+}
+
+.item3 {
+  background-image: url(../img/item3.webp);
+}
+
+.item4 {
+  background-image: url(../img/item4.webp);
+}
+
+.item5 {
+  background-image: url(../img/item5.webp);
+}
+
+.item6 {
+  background-image: url(../img/item6.webp);
+}
+
+.item7 {
+  background-image: url(../img/item7.webp);
+}
+
+.item8 {
+  background-image: url(../img/item8.webp);
+}
+
+.item9 {
+  background-image: url(../img/item9.webp);
+}
+
+.item10 {
+  background-image: url(../img/item10.webp);
+}
+
+.item11 {
+  background-image: url(../img/item11.webp);
+}
+
+.item12 {
+  background-image: url(../img/item12.webp);
+}
+
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+  .galeria {
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: repeat(6, 200px);
+  }
+}
+@media only screen and (min-width: 768px) and (max-width: 1400px) {
+  .galeria {
+    grid-template-columns: repeat(4, 1fr);
+    grid-template-rows: repeat(5, 200px);
+  }
+  .item1 {
+    grid-column: 1/3;
+    grid-row: 1/2;
+  }
+  .item2 {
+    grid-column: 3/4;
+    grid-row: 1/2;
+  }
+  .item3 {
+    grid-column: 4/5;
+    grid-row: 1/3;
+  }
+  .item4 {
+    grid-column: 1/2;
+    grid-row: 2/3;
+  }
+  .item5 {
+    grid-column: 2/4;
+    grid-row: 2/3;
+  }
+  .item6 {
+    grid-column: 3/5;
+    grid-row: 3/4;
+  }
+  .item7 {
+    grid-column: 1/3;
+    grid-row: 3/4;
+  }
+  .item8 {
+    grid-column: 2/4;
+    grid-row: 4/5;
+  }
+  .item9 {
+    grid-column: 1/2;
+    grid-row: 4/5;
+  }
+  .item10 {
+    grid-column: 4/5;
+    grid-row: 4/5;
+  }
+  .item11 {
+    grid-column: 1/3;
+    grid-row: 5/6;
+  }
+  .item12 {
+    grid-column: 3/5;
+    grid-row: 5/6;
+  }
+}
+@media only screen and (min-width: 1401px) {
+  .galeria {
+    grid-template-columns: repeat(4, 1fr);
+    grid-template-rows: repeat(3, 200px);
+  }
+}
+/* .nleft {
+  opacity: 0.93 !important;
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-color: #ffffff;
+  background-position: center;
+  height: 450px;
+  margin-top: 70px;
+} */
+
+/* .nright {
+  color: #fff;
+  font-family: "VW Text Regular";
+  margin-top: 70px;
+  background-color: rgba(12, 1, 1, 0.429);
+  padding: 0%;
+}
+.nright h2 {
+  font-family: "VW Head Bold";
+  text-align: center;
+  background-color: rgba(230, 149, 43, 0.737);
+  padding: 10px;
+}
+.nright h3 {
+  font-family: "VW Text Bold";
+  padding-left: 30px;
+}
+.nright .descripcion li {
+  font-size: 24px;
+}
+.nright .price {
+  font-family: "VW Text Bold";
+  font-weight: 900;
+  font-size: 24px;
+  padding-left: 30px;
+}
+.btn-dark {
+  margin-left: 30px;
+}
+.btn-dark:hover {
+  color: orange;
+  transform: scale(1.1);
+} */
+
+#Contacto {
+  background-color: rgba(0, 0, 0, 0.486);
+  user-select: none;
+}
+#Contacto form label {
+  font-weight: 700;
+  color: #fff;
+  font-size: 25px;
+}
+#Contacto h2 {
+  font-family: "VW Head Regular";
+  font-weight: 700;
+  color: #fff;
+}
+#Contacto .btn-dark:hover {
+  color: rgb(230, 149, 43);
+  transform: scale(1.1);
+}
+
+footer {
+  background-color: rgba(0, 0, 0, 0.783);
+  color: #fff;
+  width: 100%;
+  padding: 15px;
+  margin-top: 20px;
+  text-align: center;
+  font-size: 15px;
+  position: absolute;
+  bottom: 0;
+  
+}
+footer p {
+  margin-bottom: 20px;
+}
+footer .redes a {
+  text-decoration: none;
+}
+footer .redes i {
+  color: orange;
+  font-size: 40px;
+  letter-spacing: 30px;
+}
+footer .redes i:hover {
+  color: #fff;
+}
+
+/*# sourceMappingURL=style.css.map */
